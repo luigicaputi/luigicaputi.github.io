@@ -1,10 +1,10 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"jarda":
+  - firstname: ["Hlinka", "J.", "Hlinka Jaroslav"]
+    url: http://uivty.cs.cas.cz/~hlinka/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"aniska":
+  - firstname: ["Pidnebesna", "A."]
+    url: http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna
 
 "Rosen":
   - firstname: ["Nathan", "N."]

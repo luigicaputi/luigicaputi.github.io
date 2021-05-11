@@ -1,24 +1,53 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description:  
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Image.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Aberdeen</p>
+    <p>(UK)</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Research Fellow with the <a href="https://www.abdn.ac.uk/ncs/departments/mathematics/ntg-1156.php"> Aberdeen Neuro-Topology Research Group</a> at the <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> of the <a href="https://www.abdn.ac.uk/"> University of Aberdeen</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before that, I was a Postdoctoral fellow with the <a href="http://cobra.cs.cas.cz/"> Complex networks and brain dynamics group</a>  of the <a href="http://www.cs.cas.cz/"> Institute of Computer Science</a> of the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a>. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I have completed my Ph.D. in Mathematics at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>, 
+under the supervision of 
+<a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Prof. Dr. Ulrich Bunke</a> and 
+<a href="http://www.mathematik.uni-r.de/loeh/"> Prof. Dr. Clara L&ouml;h</a> with a thesis on <a href="https://epub.uni-regensburg.de/40219/"> Hochschild and cyclic homology for bornological coarse spaces</a>. I was supported by the research grants
+	<a href="http://www-app.uni-regensburg.de/Fakultaeten/MAT/GK/index.php/Main_Page"> Curvature, Cycles, and Cohomology</a> and 
+	the <a href="http://www-cgi.uni-regensburg.de/Fakultaeten/MAT/sfb-higher-invariants/index.php/SFB1085"> 
+	DFG SFB 1085 &#8220;Higher Invariants&#8221;</a>. 
+	
+	
+<b>Research interests</b>	
+
+I am braodly interested in algebraic topology and coarse geometry, specifically in Hochschild homology and cyclic homology theories, stable homology, algebraic K-theory and trace maps. I recently got interested in applications of homotopy and category theory to complex systems, neuroscience and brain dynamics.
+
+<!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->
+
+<p class=naka>Curriculum Vitae</p>
+<b>November 2020 - now</b> Research Fellow with the <a href="https://www.abdn.ac.uk/ncs/departments/mathematics/ntg-1156.php"> Aberdeen Neuro-Topology Research Group</a>.
+<br>
+<b>November 2019 - October 2020</b> PostDoc in the <a href="http://cobra.cs.cas.cz/"> COBRA group </a>.
+<br>
+<b>June - September 2019</b>: Wiss. Mitarbeiter at <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a> supported by the research group
+	<a href="http://www-app.uni-regensburg.de/Fakultaeten/MAT/GK/index.php/Main_Page"> Curvature, Cycles, and Cohomology</a>.
+<br>
+<b>March 2016 - May 2019</b>: PhD student at <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>.
+<br>
+<b>October 2015</b>: Master of Science in Mathematics at  University of Pisa.
+<!--  <br>
+<b>July 2012</b>: Bachelor of Science in Mathematics at University of Pisa. -->
+<p>
+

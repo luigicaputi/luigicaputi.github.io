@@ -10,15 +10,8 @@ nav: true
 My interests: Algebraic Topology, Topological Data Analysis, group homology and stable homology, algebraic K-theory, coarse geometry and homotopy theory with applications of homotopy and category theory to complex systems, neuroscience and brain dynamics.
 
 <p class=bold><h2>Publications:</h2></p>
+1. Caputi, L., <b>Cyclic homology for bornological coarse spaces</b>. <i>Journal of Homotopy and Related Structures</i> (15), 2020. Available online  <a  href='https://doi.org/10.1007/s40062-020-00263-3'> here<a/>.
 
-<div class="publications">
-
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
 
 
 <p class=naka><h2>Preprints:</h2></p>

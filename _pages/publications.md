@@ -13,8 +13,10 @@ My interests: Algebraic Topology, Topological Data Analysis, group homology and 
 
 <div class="publications">
 
-1. Caputi, L. <b>Cyclic homology for bornological coarse spaces</b>, <i>Journal of Homotopy and Related Structures</i> (15), 2020. Available <a  href='https://doi.org/10.1007/s40062-020-00263-3'> here<a/>.
-
+{% for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
 
 </div>
 

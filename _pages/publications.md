@@ -12,7 +12,7 @@ My interests: Algebraic Topology, Topological Data Analysis, group homology and 
 <p class=bold><h2>Publications:</h2></p>
 1. Caputi, L., <b>Cyclic homology for bornological coarse spaces</b>. <i>Journal of Homotopy and Related Structures</i> (15), 2020. Available online  <a  href='https://doi.org/10.1007/s40062-020-00263-3'> here<a/>.
 
-2. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna> Pidnebesna, A.</a> and <a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, <b>Promises and pitfalls of Topological Data Analysis for brain connectivity analysis</b>. <i>Neuroimage</i> 2021, vol. 238, available  <a  href='https://doi.org/10.1016/j.neuroimage.2021.118245'> here<a/>. Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_connectivity'> here<a/>.
+2. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and <a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, <b>Promises and pitfalls of Topological Data Analysis for brain connectivity analysis</b>. <i>Neuroimage</i> 2021, vol. 238, available  <a  href='https://doi.org/10.1016/j.neuroimage.2021.118245'> here<a/>. Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_connectivity'> here<a/>.
 
 
 <p class=naka><h2>Preprints:</h2></p>
@@ -24,7 +24,7 @@ My interests: Algebraic Topology, Topological Data Analysis, group homology and 
  <b>Localization for coarse homology theories</b>, 2019. Available online at the arXiv:<a href="https://arxiv.org/abs/1902.04947">1902.04947 </a>.
 <br>
 
-3. Caputi, L., Collari, C. and Di Trani, S., <b>Multipath cohomology of directed graphs</b>, 2021. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690 </a>.
+3. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and Di Trani, S., <b>Multipath cohomology of directed graphs</b>, 2021. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
 
 <p class=bold><h2>PhD Thesis:</h2></p>

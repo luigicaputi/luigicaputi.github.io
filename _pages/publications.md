@@ -24,7 +24,7 @@ My interests: Algebraic Topology, Topological Data Analysis, group homology and 
  <b>Localization for coarse homology theories</b>, 2019. Available online at the arXiv:<a href="https://arxiv.org/abs/1902.04947">1902.04947 </a>.
 <br>
 
-3. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and Di Trani, S., <b>Multipath cohomology of directed graphs</b>, 2021. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
+3. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>, 2021. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
 
 <p class=bold><h2>PhD Thesis:</h2></p>

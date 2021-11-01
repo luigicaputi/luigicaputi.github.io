@@ -26,6 +26,8 @@ My interests: Algebraic Topology, Topological Data Analysis, group homology and 
 
 3. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>, 2021. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
+4. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Combinatorial and Topological Aspects of Path Posets, and Multipath Cohomology</b>, 2021. Available online at the arXiv:<a href="https://arxiv.org/abs/2110.11206">2110.11206 </a>.
+
 
 <p class=bold><h2>PhD Thesis:</h2></p>
 <b> Hochschild and cyclic homology for bornological coarse spaces,</b> PhD thesis, University of Regensburg, 2019. Available <a href="https://epub.uni-regensburg.de/40219/"> here</a>.

@@ -28,7 +28,9 @@ My interests: Algebraic Topology, Topological Data Analysis, group homology and 
 
 4. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Combinatorial and Topological Aspects of Path Posets, and Multipath Cohomology</b>, 2021. Available online at the arXiv:<a href="https://arxiv.org/abs/2110.11206">2110.11206 </a>.
 
-5. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Categorifying connected domination via graph überhomology</b>, 2021. Available online at the arXiv:<a href="https://arxiv.org/abs/2201.00721">2201.00721 </a>.
+5. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Categorifying connected domination via graph überhomology</b>, 2022. Available online at the arXiv:<a href="https://arxiv.org/abs/2201.00721">2201.00721 </a>.
+
+6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Monotone cohomologies and oriented matchings</b>, 2022. Available online at the arXiv:<a href="https://arxiv.org/abs/2203.03476v1">2203.03476v1 </a>.
 
 
 <p class=bold><h2>PhD Thesis:</h2></p>

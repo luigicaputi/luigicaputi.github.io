@@ -8,8 +8,11 @@ profile:
   align: right
   image: Image.jpg
   address: >
-    <p>University of Aberdeen</p>
-    <p>(UK)</p>
+    <p>University of Torino</p>
+    <p>Department of Mathematics</p>
+    <p>Via Carlo Alberto, 10</p>
+    <p>10123 Torino</p>
+    <p>(IT)</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

@@ -43,7 +43,7 @@ To appear on Journal of Algebraic Combinatorics and available <a  href='https://
 
 5. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> <b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2022. Available online at the arXiv:<a href="https://arxiv.org/abs/2204.00462">2204.00462 </a>.
 
-6. 2. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
+6. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, and
 <a href="https://jasonpsmith.github.io/"> Smith, J. P.</a>
 , <b>On the Homotopy Type of Multipath Complexes</b>, 2022. Available online at the 

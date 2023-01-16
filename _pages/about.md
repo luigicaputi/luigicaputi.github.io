@@ -16,9 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Research Fellow with the <a href="https://www.abdn.ac.uk/ncs/departments/mathematics/ntg-1156.php"> Aberdeen Neuro-Topology Research Group</a> at the <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> of the <a href="https://www.abdn.ac.uk/"> University of Aberdeen</a>.
-
-Before that, I was a Postdoctoral fellow with the <a href="http://cobra.cs.cas.cz/"> Complex networks and brain dynamics group</a>  of the <a href="http://www.cs.cas.cz/"> Institute of Computer Science</a> of the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a>. 
+I am currently a Postdoctoral fellow with the <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics </a> of the 
+<a href="https://www.unito.it/"> University of Torino </a>. Before that, I was a Research Fellow with the
+<a href="https://www.abdn.ac.uk/ncs/departments/mathematics/ntg-1156.php"> Aberdeen Neuro-Topology Research Group</a> at the
+ <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> 
+of the <a href="https://www.abdn.ac.uk/"> University of Aberdeen</a>, and a Postdoctoral fellow with the 
+<a href="http://cobra.cs.cas.cz/"> Complex networks and brain dynamics group</a>  of the 
+<a href="http://www.cs.cas.cz/"> Institute of Computer Science</a> of the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a>. 
 
 
 I have completed my Ph.D. in Mathematics at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>, 
@@ -32,12 +36,21 @@ under the supervision of
 	
 <b>Research interests</b>	
 
-I am braodly interested in algebraic topology and coarse geometry, specifically in Hochschild homology and cyclic homology theories, stable homology, algebraic K-theory and trace maps. I recently got interested in applications of homotopy and category theory to complex systems, neuroscience and brain dynamics.
+My main subject is Algebraic Topology. More specically, my research involves a mixture of homotopy
+theory, homological algebra, category theory, combinatorial and geometric topology, and Topological Data
+Analysis.
+I am interested in Hochschild homology and cyclic homology theories, coarse geometry, graph theory, stable homology, algebraic K-theory,
+ and trace maps. I recently got interested also in applications of 
+homotopy and category theory to complex systems, neuroscience and brain dynamics.
 
 <!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->
 
 <p class=naka>Curriculum Vitae</p>
-<b>November 2020 - now</b> Research Fellow with the <a href="https://www.abdn.ac.uk/ncs/departments/mathematics/ntg-1156.php"> Aberdeen Neuro-Topology Research Group</a>.
+<b>January 2023 - December 2023</b> PostDoc at the <a href="https://www.unito.it/"> University of Torino </a>.
+<br>
+<b>September 2022 - December 2022</b> PostDoc in the <a href="http://cobra.cs.cas.cz/"> COBRA group </a>.
+<br>
+<b>November 2020 - August 2022</b> Research Fellow with the <a href="https://www.abdn.ac.uk/ncs/departments/mathematics/ntg-1156.php"> Aberdeen Neuro-Topology Research Group</a>.
 <br>
 <b>November 2019 - October 2020</b> PostDoc in the <a href="http://cobra.cs.cas.cz/"> COBRA group </a>.
 <br>

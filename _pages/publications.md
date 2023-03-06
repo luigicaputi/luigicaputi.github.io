@@ -28,7 +28,7 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
 <b>Combinatorial and Topological Aspects of Path Posets, and Multipath Cohomology</b>, 2022. 
 Accepted for publication by the Journal of Algebraic Combinatorics and available
-at <a  href='https://link.springer.com/article/10.1007/s10801-022-01180-9'> here<a/>.
+ <a  href='https://link.springer.com/article/10.1007/s10801-022-01180-9'> here<a/>.
 
 5. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
 <b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2022. Accepted for publication by the Journal of Applied and Computational

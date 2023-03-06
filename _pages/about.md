@@ -20,11 +20,10 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am currently a Postdoctoral fellow with the <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics </a> of the 
-<a href="https://www.unito.it/"> University of Torino </a>. Before that, I was a Research Fellow with the
-<a href="https://www.abdn.ac.uk/ncs/departments/mathematics/ntg-1156.php"> Aberdeen Neuro-Topology Research Group</a> at the
+<a href="https://www.unito.it/"> University of Torino </a>. Before that, I was a Research Fellow  at the
  <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> 
 of the <a href="https://www.abdn.ac.uk/"> University of Aberdeen</a>, and a Postdoctoral fellow with the 
-<a href="http://cobra.cs.cas.cz/"> Complex networks and brain dynamics group</a>  of the 
+<a href="http://cobra.cs.cas.cz/"> Cobra group</a>  of the 
 <a href="http://www.cs.cas.cz/"> Institute of Computer Science</a> of the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a>. 
 
 
@@ -42,8 +41,8 @@ under the supervision of
 My main subject is Algebraic Topology. More specically, my research involves a mixture of homotopy
 theory, homological algebra, category theory, combinatorial and geometric topology, and Topological Data
 Analysis.
-I am interested in Hochschild homology and cyclic homology theories, coarse geometry, graph theory, stable homology, algebraic K-theory,
- and trace maps. I recently got interested also in applications of 
+I am mainly interested in Hochschild homology and cyclic homology theories, coarse geometry, graph theory, stable homology, algebraic K-theory,
+ and trace maps. From an interdisciplinary point of view, I recently got interested also in applications of 
 homotopy and category theory to complex systems, neuroscience and brain dynamics.
 
 <!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->

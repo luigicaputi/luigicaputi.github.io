@@ -26,18 +26,19 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 
 4. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
-<b>Combinatorial and Topological Aspects of Path Posets, and Multipath Cohomology</b>, 2022. 
-Accepted for publication by the Journal of Algebraic Combinatorics and available
+<b>Combinatorial and Topological Aspects of Path Posets, and Multipath Cohomology</b>. 
+<i>Journal of Algebraic Combinatorics</i> 57: 617–658 (2023). Available
  <a  href='https://link.springer.com/article/10.1007/s10801-022-01180-9'> here<a/>.
 
 5. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
-<b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2022. Accepted for publication by the Journal of Applied and Computational
+<b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2023. Accepted for publication by the Journal of Applied and Computational
 Topology. Available online at the link arXiv:<a href="https://arxiv.org/abs/2204.00462">2204.00462 </a>.
 
 6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> 
-<b>Categorifying connected domination via graph überhomology</b>, 2022. Accepted for publication by the Journal of Pure and Applied Algebra. 
-Available online at the link arXiv:<a href="https://arxiv.org/abs/2201.00721">2201.00721 </a>.
+<b>Categorifying connected domination via graph überhomology</b>. 
+<i>Journal of Pure and Applied Algebra</i> 227(9), 2023.  
+Available online <a href='https://www.sciencedirect.com/science/article/abs/pii/S0022404923000646'> here<a/>, or at the link arXiv:<a href="https://arxiv.org/abs/2201.00721">2201.00721 </a>.
 
 
 <p class=naka><h2>Preprints:</h2></p>

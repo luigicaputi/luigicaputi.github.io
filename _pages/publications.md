@@ -62,6 +62,9 @@ ArXiv:<a href="https://arxiv.org/abs/2208.04656">2208.04656 </a>.
 5. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <b>On finite generation in magnitude (co)homology, and its torsion</b>, 2023. Available online at the arXiv:<a href="https://arxiv.org/abs/2302.06525">2302.06525 </a>.
 
+6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
+<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>, 
+2022. Available online at the arXiv:<a href="https://arxiv.org/abs/2304.10134">2304.10134 </a>.
 
 
 <p class=bold><h2>PhD Thesis:</h2></p>

@@ -37,8 +37,7 @@ Topology. Available online at the link arXiv:<a href="https://arxiv.org/abs/2204
 6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> 
 <b>Categorifying connected domination via graph überhomology</b>. 
-<i>Journal of Pure and Applied Algebra</i> 227(9), 2023.  
-Available online <a href='https://www.sciencedirect.com/science/article/abs/pii/S0022404923000646'> here<a/>, or at the link arXiv:<a href="https://arxiv.org/abs/2201.00721">2201.00721 </a>.
+<i>Journal of Pure and Applied Algebra</i> 227(9), 2023. Available online <a href='https://www.sciencedirect.com/science/article/abs/pii/S0022404923000646'> here<a/>, or at arXiv:<a href="https://arxiv.org/abs/2201.00721">2201.00721 </a>.
 
 
 <p class=naka><h2>Preprints:</h2></p>

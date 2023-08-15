@@ -39,9 +39,7 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 <b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2023. Accepted for publication by the Journal of Applied and Computational
 Topology. Available online at the link arXiv:<a href="https://arxiv.org/abs/2204.00462">2204.00462 </a>.
 
-7. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
-<a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>, 
-2021. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
+7. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
 
 <p class=naka><h2>Preprints:</h2></p>

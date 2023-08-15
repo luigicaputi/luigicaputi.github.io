@@ -37,7 +37,7 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 
 6. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
 <b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2023. Accepted for publication by the Journal of Applied and Computational
-Topology. Available online at the link arXiv:<a href="https://arxiv.org/abs/2204.00462">2204.00462 </a>.
+Topology. Available online <a href="https://link.springer.com/article/10.1007/s41468-023-00118-9"> here </a> and at the link arXiv:<a href="https://arxiv.org/abs/2204.00462">2204.00462 </a>.
 
 7. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
@@ -65,7 +65,7 @@ ArXiv:<a href="https://arxiv.org/abs/2208.04656">2208.04656 </a>.
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>, 2023. Available online at the arXiv:<a href="https://arxiv.org/abs/2304.10134">2304.10134 </a>.
 
 6. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
-<b>On reachability categories and commuting algebras of quivers</b>, 2023.  Available online at the link arXiv:<a href="https://arxiv.org/abs/2306.15388 </a>.
+<b>On reachability categories and commuting algebras of quivers</b>, 2023.  Available online at the link arXiv:<a href="https://arxiv.org/abs/2306.15388">2306.15388 </a>.
 
 <p class=bold><h2>PhD Thesis:</h2></p>
 <b> Hochschild and cyclic homology for bornological coarse spaces,</b> PhD thesis, University of Regensburg, 2019. Available <a href="https://epub.uni-regensburg.de/40219/"> here</a>.

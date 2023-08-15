@@ -39,9 +39,8 @@ under the supervision of
 <b>Research interests</b>	
 
 My main subject is Algebraic Topology. More specically, my research involves a mixture of homotopy
-theory, homological algebra, category theory, combinatorial and geometric topology, and Topological Data
-Analysis.
-I am mainly interested in Hochschild homology and cyclic homology theories, coarse geometry, graph theory, stable homology, algebraic K-theory,
+theory, homological algebra, category theory, combinatorial and geometric topology.
+I am mainly interested in Hochschild homology and cyclic homology theories, coarse geometry,  stable homology, algebraic K-theory,
  and trace maps. From an interdisciplinary point of view, I recently got interested also in applications of 
 homotopy and category theory to complex systems, neuroscience and brain dynamics.
 

@@ -30,14 +30,18 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 <i>Journal of Algebraic Combinatorics</i> 57: 617–658 (2023). Available
  <a  href='https://link.springer.com/article/10.1007/s10801-022-01180-9'> here<a/>.
 
-5. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
-<b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2023. Accepted for publication by the Journal of Applied and Computational
-Topology. Available online at the link arXiv:<a href="https://arxiv.org/abs/2204.00462">2204.00462 </a>.
-
-6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
+5. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> 
 <b>Categorifying connected domination via graph überhomology</b>. 
 <i>Journal of Pure and Applied Algebra</i> 227(9), 2023. Available online <a href='https://www.sciencedirect.com/science/article/abs/pii/S0022404923000646'> here<a/>, or at arXiv:<a href="https://arxiv.org/abs/2201.00721">2201.00721 </a>.
+
+6. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
+<b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2023. Accepted for publication by the Journal of Applied and Computational
+Topology. Available online at the link arXiv:<a href="https://arxiv.org/abs/2204.00462">2204.00462 </a>.
+
+7. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
+<a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>, 
+2021. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
 
 <p class=naka><h2>Preprints:</h2></p>
@@ -46,24 +50,24 @@ Topology. Available online at the link arXiv:<a href="https://arxiv.org/abs/2204
  <b>Localization for coarse homology theories</b>, 2019. Available online at the arXiv:<a href="https://arxiv.org/abs/1902.04947">1902.04947 </a>.
 <br>
 
-2. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>, 2021. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
+
+2. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Monotone cohomologies and oriented matchings</b>, 2022. Available online at the arXiv:<a href="https://arxiv.org/abs/2203.03476v1">2203.03476v1 </a>.
 
 
-3. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Monotone cohomologies and oriented matchings</b>, 2022. Available online at the arXiv:<a href="https://arxiv.org/abs/2203.03476v1">2203.03476v1 </a>.
-
-
-4. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
+3. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, and
 <a href="https://jasonpsmith.github.io/"> Smith, J. P.</a>
 , <b>On the Homotopy Type of Multipath Complexes</b>, 2022. Available online at the 
 ArXiv:<a href="https://arxiv.org/abs/2208.04656">2208.04656 </a>.
 
-5. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
+4. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <b>On finite generation in magnitude (co)homology, and its torsion</b>, 2023. Available online at the arXiv:<a href="https://arxiv.org/abs/2302.06525">2302.06525 </a>.
 
-6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
+5. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>, 2023. Available online at the arXiv:<a href="https://arxiv.org/abs/2304.10134">2304.10134 </a>.
 
+6. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
+<b>On reachability categories and commuting algebras of quivers</b>, 2023.  Available online at the link arXiv:<a href="https://arxiv.org/abs/2306.15388 </a>.
 
 <p class=bold><h2>PhD Thesis:</h2></p>
 <b> Hochschild and cyclic homology for bornological coarse spaces,</b> PhD thesis, University of Regensburg, 2019. Available <a href="https://epub.uni-regensburg.de/40219/"> here</a>.

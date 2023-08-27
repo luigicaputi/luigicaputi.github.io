@@ -14,33 +14,34 @@ and homotopy theory, along with applications of Topological Data Analysis to com
 1. Caputi, L., <b>Cyclic homology for bornological coarse spaces</b>. <i>Journal of Homotopy and Related Structures</i> (15), 2020. 
 Available  <a  href='https://doi.org/10.1007/s40062-020-00263-3'> here<a/>.
 
-2. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and 
-<a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, 
-<b>Promises and pitfalls of Topological Data Analysis for brain connectivity analysis</b>. <i>Neuroimage</i> 2021, vol. 238. 
-Available  <a  href='https://doi.org/10.1016/j.neuroimage.2021.118245'> here<a/>. 
-Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_connectivity'> here<a/>.
-
-3. <a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Bunke, U.</a> and Caputi, L., 
+2. <a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Bunke, U.</a> and Caputi, L., 
 <b>Controlled objects as a symmetric monoidal functor</b>. <i>Higher Structures</i> 6(1): 182-211, 2022. 
 Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/BunkeCaputi'> here<a/>.
 
-4. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
+3. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
 <b>Combinatorial and Topological Aspects of Path Posets, and Multipath Cohomology</b>. 
 <i>Journal of Algebraic Combinatorics</i> 57: 617–658 (2023). Available
  <a  href='https://link.springer.com/article/10.1007/s10801-022-01180-9'> here<a/>.
 
-5. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
+4. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> 
 <b>Categorifying connected domination via graph überhomology</b>. 
 <i>Journal of Pure and Applied Algebra</i> 227(9), 2023. Available online <a href='https://www.sciencedirect.com/science/article/abs/pii/S0022404923000646'> here<a/>, or at arXiv:<a href="https://arxiv.org/abs/2201.00721">2201.00721 </a>.
 
-6. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
+5. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
+
+<p class=bold><h2>Accepted papers and Publications in applied mathematics and neurosciences:</h2></p>
+
+1. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and 
+<a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, 
+<b>Promises and pitfalls of Topological Data Analysis for brain connectivity analysis</b>. <i>Neuroimage</i> 2021, vol. 238. 
+Available  <a  href='https://doi.org/10.1016/j.neuroimage.2021.118245'> here<a/>. 
+Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_connectivity'> here<a/>.
+
+2. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
 <b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2023. Accepted for publication by the Journal of Applied and Computational
 Topology. Available online <a href="https://link.springer.com/article/10.1007/s41468-023-00118-9"> here </a> and at the link arXiv:<a href="https://arxiv.org/abs/2204.00462">2204.00462 </a>.
-
-7. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
-
 
 <p class=naka><h2>Preprints:</h2></p>
 

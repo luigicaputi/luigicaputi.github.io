@@ -19,12 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Postdoctoral fellow with the <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics </a> of the 
+I am currently a Postdoctoral fellow at the <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics </a> of the 
 <a href="https://www.unito.it/"> University of Torino </a>. Before that, I was a Research Fellow  at the
  <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> 
 of the <a href="https://www.abdn.ac.uk/"> University of Aberdeen</a>, and a Postdoctoral fellow with the 
 <a href="http://cobra.cs.cas.cz/"> Cobra group</a>  of the 
-<a href="http://www.cs.cas.cz/"> Institute of Computer Science</a> of the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a>. 
+<a href="http://www.cs.cas.cz/"> Institute of Computer Science</a> of the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague. 
 
 
 I have completed my Ph.D. in Mathematics at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>, 

@@ -44,6 +44,10 @@ I am mainly interested in Hochschild homology and cyclic homology theories, coar
  and trace maps. From an interdisciplinary point of view, I recently got interested also in applications of 
 homotopy and category theory to complex systems, neuroscience and brain dynamics.
 
+<b>Conference links</b>
+
+<a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop
+
 <!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->
 
 <p class=naka>Curriculum Vitae</p>

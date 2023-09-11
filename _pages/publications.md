@@ -31,7 +31,10 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 
 5. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
-<p class=bold><h2>Accepted papers and Publications in applied mathematics and neurosciences:</h2></p>
+6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
+<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>, 2023. Accepted for publication on Proc. A Royal Soc. Edinburgh. Available online at the arXiv:<a href="https://arxiv.org/abs/2304.10134">2304.10134 </a>. 
+
+<p class=bold><h2>Accepted papers and Publications in applied mathematics:</h2></p>
 
 1. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and 
 <a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, 
@@ -62,10 +65,7 @@ ArXiv:<a href="https://arxiv.org/abs/2208.04656">2208.04656 </a>.
 4. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <b>On finite generation in magnitude (co)homology, and its torsion</b>, 2023. Available online at the arXiv:<a href="https://arxiv.org/abs/2302.06525">2302.06525 </a>.
 
-5. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
-<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>, 2023. Available online at the arXiv:<a href="https://arxiv.org/abs/2304.10134">2304.10134 </a>.
-
-6. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
+5. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
 <b>On reachability categories and commuting algebras of quivers</b>, 2023.  Available online at the link arXiv:<a href="https://arxiv.org/abs/2306.15388">2306.15388 </a>.
 
 <p class=bold><h2>PhD Thesis:</h2></p>

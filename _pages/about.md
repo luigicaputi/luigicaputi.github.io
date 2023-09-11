@@ -44,9 +44,14 @@ I am mainly interested in Hochschild homology and cyclic homology theories, coar
  and trace maps. From an interdisciplinary point of view, I recently got interested also in applications of 
 homotopy and category theory to complex systems, neuroscience and brain dynamics.
 
-<b>Conference links</b>
+<b>Recents and upcoming activities</b>
 
-<a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop
+<a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023
+
+<a href="https://shocos.idrissi.eu/conf0523"> Workshop on Homology of Configuration Spaces and related topics </a>, Paris, May 15-17, 2023
+
+<a href="https://people.dm.unipi.it/dadderio/dobb2023"> Winter School </a>: Geometry, Algebra and Combinatorics of Moduli Spaces and Configurations V, Dobbiaco (Toblach), February 20-24, 2023
+
 
 <!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->
 

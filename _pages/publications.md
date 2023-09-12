@@ -34,7 +34,7 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>, 2023. Accepted for publication on Proc. A Royal Soc. Edinburgh. Available online at the arXiv:<a href="https://arxiv.org/abs/2304.10134">2304.10134 </a>. 
 
-<p class=bold><h2>Accepted papers and Publications in applied mathematics:</h2></p>
+<p class=bold><h2>Publications in applied mathematics:</h2></p>
 
 1. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and 
 <a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, 

@@ -54,13 +54,13 @@ homotopy and category theory to complex systems, neuroscience and brain dynamics
 <!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->
 
 <p class=naka><b>Curriculum Vitae</b></p>
-<b>January 2023 - December 2023</b> PostDoc at the <a href="https://www.unito.it/"> University of Torino </a>.
+<b>January 2023 - December 2023</b> PostDoc at the  <a href="https://www.unito.it/"> University of Torino </a>.
 <br>
-<b>September 2022 - December 2022</b> PostDoc in the <a href="http://cobra.cs.cas.cz/"> COBRA group </a>.
+<b>September 2022 - December 2022</b> PostDoc with the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague.
 <br>
 <b>November 2020 - August 2022</b> Research Fellow with the <a href="https://www.abdn.ac.uk/ncs/departments/mathematics/ntg-1156.php"> Aberdeen Neuro-Topology Research Group</a>.
 <br>
-<b>November 2019 - October 2020</b> PostDoc in the <a href="http://cobra.cs.cas.cz/"> COBRA group </a>.
+<b>November 2019 - October 2020</b> PostDoc with the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague.
 <br>
 <b>June - September 2019</b>: Wiss. Mitarbeiter at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a> in the research group "Curvature, Cycles, and Cohomology".
 <br>

@@ -51,14 +51,11 @@ homotopy and category theory to complex systems, neuroscience and brain dynamics
 
 <a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023
 
-<a href="https://shocos.idrissi.eu/conf0523"> Workshop on Homology of Configuration Spaces and related topics </a>, Paris, May 15-17, 2023
-
-<a href="https://people.dm.unipi.it/dadderio/dobb2023"> Winter School </a>: Geometry, Algebra and Combinatorics of Moduli Spaces and Configurations V, Dobbiaco (Toblach), February 20-24, 2023
 
 
 <!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->
 
-<p class=naka>Curriculum Vitae</p>
+<p class=naka><b>Curriculum Vitae</b></p>
 <b>January 2023 - December 2023</b> PostDoc at the <a href="https://www.unito.it/"> University of Torino </a>.
 <br>
 <b>September 2022 - December 2022</b> PostDoc in the <a href="http://cobra.cs.cas.cz/"> COBRA group </a>.

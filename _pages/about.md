@@ -23,8 +23,7 @@ I am currently a Postdoctoral fellow at the <a href="https://www.dipmatematica.u
 <a href="https://www.unito.it/"> University of Torino </a>. Before that, I was a Research Fellow  at the
  <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> 
 of the <a href="https://www.abdn.ac.uk/"> University of Aberdeen</a>, and a Postdoctoral fellow with the 
-<a href="http://cobra.cs.cas.cz/"> Cobra group</a>  of the 
-<a href="http://www.cs.cas.cz/"> Institute of Computer Science</a> of the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague. 
+<a href="http://cobra.cs.cas.cz/"> Cobra group</a> of the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague. 
 
 
 I have completed my Ph.D. in Mathematics at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>, 
@@ -40,8 +39,7 @@ under the supervision of
 
 My main subject is Algebraic Topology. More specically, my research involves a mixture of homotopy
 theory, homological algebra, category theory, combinatorial and geometric topology.
-I am mainly interested in Hochschild homology and cyclic homology theories, coarse geometry,  stable homology, algebraic K-theory,
- and trace maps. From an interdisciplinary point of view, I recently got interested also in applications of 
+I am mainly interested in Hochschild homology and cyclic homology theories, coarse geometry,  stable homology, algebraic K-theory, and trace maps. From an interdisciplinary point of view, I am interested in applications of 
 homotopy and category theory to complex systems, neuroscience and brain dynamics.
 
 <b>Recent and upcoming activities</b>
@@ -64,10 +62,9 @@ homotopy and category theory to complex systems, neuroscience and brain dynamics
 <br>
 <b>November 2019 - October 2020</b> PostDoc in the <a href="http://cobra.cs.cas.cz/"> COBRA group </a>.
 <br>
-<b>June - September 2019</b>: Wiss. Mitarbeiter at <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a> supported by the research group
-	<a href="http://www-app.uni-regensburg.de/Fakultaeten/MAT/GK/index.php/Main_Page"> Curvature, Cycles, and Cohomology</a>.
+<b>June - September 2019</b>: Wiss. Mitarbeiter at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a> in the research group "Curvature, Cycles, and Cohomology".
 <br>
-<b>March 2016 - May 2019</b>: PhD student at <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>.
+<b>March 2016 - May 2019</b>: PhD student at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>.
 <br>
 <b>October 2015</b>: Master of Science in Mathematics at  University of Pisa.
 <!--  <br>

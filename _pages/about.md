@@ -44,6 +44,8 @@ homotopy and category theory to complex systems, neuroscience and brain dynamics
 
 <b>Recent and upcoming activities</b>
 
+<a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University, 4-8 December, 2023.
+
 <a href="http://www.crm.sns.it/event/523/index.html#title"> CATA</a>: Combinatorial Algebraic Topology, and Applications, Pisa, November 27-28, 2023
 
 

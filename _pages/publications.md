@@ -32,7 +32,7 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 5. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
 6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
-<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>, 2023. Accepted for publication on Proc. A Royal Soc. Edinburgh. Available online at the arXiv:<a href="https://arxiv.org/abs/2304.10134">2304.10134 </a>. 
+<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>, 2023. Proceedings of the Royal Society of Edinburgh Section A: Mathematics, 1-24. doi:10.1017/prm.2023.104 Available also at the arXiv:<a href="https://arxiv.org/abs/2304.10134">2304.10134 </a>. 
 
 <p class=bold><h2>Publications in applied mathematics:</h2></p>
 

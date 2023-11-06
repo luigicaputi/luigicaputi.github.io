@@ -39,6 +39,9 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 <a href="https://jasonpsmith.github.io/"> Smith, J. P.</a>
 , <b>On the Homotopy Type of Multipath Complexes</b>, 2022. Accepted for publication on Mathematika. Available online at the ArXiv:<a href="https://arxiv.org/abs/2208.04656">2208.04656 </a>. 
 
+8. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Monotone cohomologies and oriented matchings</b>, 2022. Accepted for publication on Homology, Homotopy and Applications. Available online at the arXiv:<a href="https://arxiv.org/abs/2203.03476v1">2203.03476v1 </a>.
+
+
 <p class=bold><h2>Publications in applied mathematics:</h2></p>
 
 1. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and 
@@ -57,14 +60,10 @@ Topology. Available online <a href="https://link.springer.com/article/10.1007/s4
  <b>Localization for coarse homology theories</b>, 2019. Available online at the arXiv:<a href="https://arxiv.org/abs/1902.04947">1902.04947 </a>.
 <br>
 
-
-2. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Monotone cohomologies and oriented matchings</b>, 2022. Available online at the arXiv:<a href="https://arxiv.org/abs/2203.03476v1">2203.03476v1 </a>.
-
-
-3. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
+2. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <b>On finite generation in magnitude (co)homology, and its torsion</b>, 2023. Available online at the arXiv:<a href="https://arxiv.org/abs/2302.06525">2302.06525 </a>.
 
-4. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
+3. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
 <b>On reachability categories and commuting algebras of quivers</b>, 2023.  Available online at the link arXiv:<a href="https://arxiv.org/abs/2306.15388">2306.15388 </a>.
 
 <p class=bold><h2>PhD Thesis:</h2></p>

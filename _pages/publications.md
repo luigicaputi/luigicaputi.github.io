@@ -29,17 +29,20 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 <b>Categorifying connected domination via graph überhomology</b>. 
 <i>Journal of Pure and Applied Algebra</i> 227(9), 2023. Available online <a href='https://www.sciencedirect.com/science/article/abs/pii/S0022404923000646'> here<a/>, or at arXiv:<a href="https://arxiv.org/abs/2201.00721">2201.00721 </a>.
 
-5. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
+5. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
+<b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2023. <i>Journal of Applied and Computational Topology</i>. Available online <a href="https://link.springer.com/article/10.1007/s41468-023-00118-9"> here </a> and at the link arXiv:<a href="https://arxiv.org/abs/2204.00462">2204.00462 </a>.
 
 6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
-<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>, 2023. Proceedings of the Royal Society of Edinburgh Section A: Mathematics, 1-24. doi:10.1017/prm.2023.104 Available also at the arXiv:<a href="https://arxiv.org/abs/2304.10134">2304.10134 </a>.
+<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>, 2023. <i>Proceedings of the Royal Society of Edinburgh Section A: Mathematics</i>, 1-24. doi:10.1017/prm.2023.104 Available also at the arXiv:<a href="https://arxiv.org/abs/2304.10134">2304.10134 </a>.
 
 7. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, and
 <a href="https://jasonpsmith.github.io/"> Smith, J. P.</a>
-, <b>On the Homotopy Type of Multipath Complexes</b>, 2022. Accepted for publication on Mathematika. Available online at the ArXiv:<a href="https://arxiv.org/abs/2208.04656">2208.04656 </a>. 
+, <b>On the Homotopy Type of Multipath Complexes</b>, 2024. <i>Mathematika</i>, 70: e12235, https://doi.org/10.1112/mtk.12235. Available online at ArXiv:<a href="https://arxiv.org/abs/2208.04656">2208.04656 </a>. 
 
 8. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Monotone cohomologies and oriented matchings</b>, 2022. Accepted for publication on Homology, Homotopy and Applications. Available online at the arXiv:<a href="https://arxiv.org/abs/2203.03476v1">2203.03476v1 </a>.
+
+9. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
 
 <p class=bold><h2>Publications in applied mathematics:</h2></p>
@@ -50,9 +53,7 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 Available  <a  href='https://doi.org/10.1016/j.neuroimage.2021.118245'> here<a/>. 
 Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_connectivity'> here<a/>.
 
-2. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
-<b>Hochschild homology, and a persistent approach via connectivity digraphs</b>, 2023. Accepted for publication by the Journal of Applied and Computational
-Topology. Available online <a href="https://link.springer.com/article/10.1007/s41468-023-00118-9"> here </a> and at the link arXiv:<a href="https://arxiv.org/abs/2204.00462">2204.00462 </a>.
+
 
 <p class=naka><h2>Preprints:</h2></p>
 

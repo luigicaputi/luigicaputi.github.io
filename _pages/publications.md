@@ -7,8 +7,9 @@ years: [2020]
 nav: true
 ---
 
-My interests: algebraic topology, combinatorial topology, group homology and stable homology, algebraic K-theory, coarse geometry, homological algebra, category theory,
-and homotopy theory, along with applications of Topological Data Analysis to complex systems, neuroscience and brain dynamics.
+My interests: algebraic and combinatorial topology, in coarse geometry, Hochschild and
+cyclic homology theories, stable homology, representations of categories, and K-theory. I am also
+interested in applications of these to graph theory and neuroscience.
 
 <p class=bold><h2>Accepted papers and Publications:</h2></p>
 1. Caputi, L., <b>Cyclic homology for bornological coarse spaces</b>. <i>Journal of Homotopy and Related Structures</i> (15), 2020. 
@@ -44,6 +45,13 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 
 9. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
+10. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
+<b>On reachability categories and commuting algebras of quivers</b>, 2023. Accepted for publication on Theory and Applications of Categories. Available online at the arXiv:<a href="https://arxiv.org/abs/2306.15388">2306.15388 </a>.
+
+11. <a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Bunke, U.</a> and Caputi, L.,
+ <b>Localization for coarse homology theories</b>, 2019. Accepted for publication on Annals of K-theory. Available at the arXiv:<a href="https://arxiv.org/abs/1902.04947">1902.04947 </a>.
+<br>
+
 
 <p class=bold><h2>Publications in applied mathematics:</h2></p>
 
@@ -57,17 +65,10 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 
 <p class=naka><h2>Preprints:</h2></p>
 
-1. <a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Bunke, U.</a> and Caputi, L.,
- <b>Localization for coarse homology theories</b>, 2019. Available online at the arXiv:<a href="https://arxiv.org/abs/1902.04947">1902.04947 </a>.
-<br>
-
-2. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
+1. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <b>On finite generation in magnitude (co)homology, and its torsion</b>, 2023. Available online at the arXiv:<a href="https://arxiv.org/abs/2302.06525">2302.06525 </a>.
 
-3. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
-<b>On reachability categories and commuting algebras of quivers</b>, 2023.  Available online at the link arXiv:<a href="https://arxiv.org/abs/2306.15388">2306.15388 </a>.
-
-4. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, and <a href="https://ericgramos.github.io/"> Ramos, E.</a>
+2. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, and <a href="https://ericgramos.github.io/"> Ramos, E.</a>
 <b>The weak categorical quiver minor theorem and its applications: matchings, multipaths, and magnitude cohomology</b>, 2024. Available online at the arXiv:<a href="https://arxiv.org/abs/2401.01248">2401.01248 </a>.
 
 <p class=bold><h2>PhD Thesis:</h2></p>

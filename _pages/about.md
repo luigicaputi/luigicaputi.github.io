@@ -8,10 +8,10 @@ profile:
   align: right
   image: Image.jpg
   address: >
-    <p>University of Torino</p>
+    <p>University of Bologna</p>
     <p>Department of Mathematics</p>
-    <p>Via Carlo Alberto, 10</p>
-    <p>10123 Torino</p>
+    <p>Via Zamboni, 33</p>
+    <p>40126 Bologna</p>
     <p>(IT)</p>
 
 news: false  # includes a list of news items
@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Postdoctoral fellow at the <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics </a> of the 
-<a href="https://www.unito.it/"> University of Torino </a>. Before that, I was a Research Fellow  at the
+I am currently a Postdoctoral fellow at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna. Before that, I was at the  <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics </a> of the 
+<a href="https://www.unito.it/"> University of Torino </a>, a Research Fellow  at the
  <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> 
 of the <a href="https://www.abdn.ac.uk/"> University of Aberdeen</a>, and a Postdoctoral fellow with the 
 <a href="http://cobra.cs.cas.cz/"> Cobra group</a> of the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague. 

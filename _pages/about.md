@@ -58,6 +58,8 @@ homotopy and category theory to complex systems, neuroscience and brain dynamics
 <!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->
 
 <p class=naka><b>Curriculum Vitae</b></p>
+<b>January 2024 - December 2024</b> PostDoc at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna.
+<br>
 <b>January 2023 - December 2023</b> PostDoc at the  <a href="https://www.unito.it/"> University of Torino </a>.
 <br>
 <b>September 2022 - December 2022</b> PostDoc with the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague.

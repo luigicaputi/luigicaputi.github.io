@@ -73,3 +73,9 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 
 <p class=bold><h2>PhD Thesis:</h2></p>
 <b> Hochschild and cyclic homology for bornological coarse spaces,</b> PhD thesis, University of Regensburg, 2019. Available <a href="https://epub.uni-regensburg.de/40219/"> here</a>.
+
+<p class=bold><h2>Recent recorded seminars:</h2></p>
+
+01/11/2023, <b>From the Mayer-Vietoris spectral sequence to überhomology</b> available on <a href="https://www.youtube.com/watch?v=wa58sRq-Uuk"> Youtube</a>, Cohomology in algebra, geometry, physics and statistics seminars, Institute of Mathematics of the Czech Academy of Sciences, Prague
+
+10/04/2024, <b>The weak categorical quiver minor theorem and its applications</b> available <a href="https://bimsa.net:10000/talk.html?id=29124"> here</a>, BIMSA Topology Seminar, online

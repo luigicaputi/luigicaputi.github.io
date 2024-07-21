@@ -22,8 +22,8 @@ social: true # includes social icons at the bottom of the page
 I am currently a Postdoctoral fellow at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna. Before that, I was at the  <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics </a> of the 
 <a href="https://www.unito.it/"> University of Torino </a>, a Research Fellow  at the
  <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> 
-of the <a href="https://www.abdn.ac.uk/"> University of Aberdeen</a>, and a Postdoctoral fellow with the 
-<a href="http://cobra.cs.cas.cz/"> Cobra group</a> of the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague. 
+of the <a href="https://www.abdn.ac.uk/"> University of Aberdeen</a>, and a Postdoctoral fellow with the
+<a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague. 
 
 
 I have completed my Ph.D. in Mathematics at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>, 
@@ -37,14 +37,19 @@ under the supervision of
 	
 <b>Research interests</b>	
 
-My main subject is Algebraic Topology. More specically, my research involves a mixture of homotopy
+My main subject is Algebraic Topology. More specifically, my research involves a mixture of homotopy
 theory, homological algebra, category theory, combinatorial and geometric topology.
-I am mainly interested in Hochschild homology and cyclic homology theories, coarse geometry,  stable homology, algebraic K-theory, and trace maps. From an interdisciplinary point of view, I am interested in applications of 
-homotopy and category theory to complex systems, neuroscience and brain dynamics.
+I am interested in homology and homotopy theories, coarse geometry, combinatorial topology, K-theory, and applications of homotopy and category theory to complex systems, such as applications of TDA to neuroscience and brain dynamics.
 
 <b>Recent and upcoming activities</b>
 
-<a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University, 4-8 December, 2023.
+<a href="http://www.crm.sns.it/event/532/index.html#title"> CATA II</a>: Combinatorial Algebraic Topology, and Applications II, Pisa, October 1-4, 2024
+
+<a href="https://umi.dm.unibo.it/jm-umi-ams/social-events/"> AMS-UMI 2nd Joint Meeting</a>, Special session B16 <a href="https://sites.google.com/cimat.mx/umi-ams-discrete-alg-top/inicio?authuser=0"> Discrete and Combinatorial 
+Algebraic Topology, 
+Theory and Applications</a>, Palermo, July 25-26, 2024.
+
+<a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University,  December 4-8, 2023.
 
 <a href="https://sites.google.com/view/tdainturin/home-page"> TDA in Turin</a>, Turin, November 29, 2023
 

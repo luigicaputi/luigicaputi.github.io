@@ -38,7 +38,7 @@ under the supervision of
 
 My main subject is Algebraic Topology. More specifically, my research involves a mixture of homotopy
 theory, homological algebra, category theory, combinatorial and geometric topology.
-I am interested in homology and homotopy theories, coarse geometry, combinatorial topology, K-theory, and applications of homotopy and category theory to complex systems, such as applications of TDA to neuroscience and brain dynamics.
+I am interested in homology and homotopy theories, coarse geometry, combinatorial topology, K-theory, and applications of homotopy and category theory to graphs and complex systems, such as applications of TDA to neuroscience and brain dynamics.
 
 <b>Recent and upcoming activities</b>
 

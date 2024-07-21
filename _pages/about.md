@@ -62,7 +62,7 @@ Theory and Applications</a>, Palermo, July 25-26, 2024.
 
 <!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->
 
-<p class=naka><b>Curriculum Vitae</b></p>
+<p class=naka><b>Previous positions:</b></p>
 <b>January 2024 - December 2024</b> PostDoc at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna.
 <br>
 <b>January 2023 - December 2023</b> PostDoc at the  <a href="https://www.unito.it/"> University of Torino </a>.

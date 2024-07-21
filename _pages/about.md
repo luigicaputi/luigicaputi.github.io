@@ -44,6 +44,8 @@ I am interested in homology and homotopy theories, coarse geometry, combinatoria
 
 <a href="http://www.crm.sns.it/event/532/index.html#title"> CATA II</a>: Combinatorial Algebraic Topology, and Applications II, Pisa, October 1-4, 2024
 
+<a href="https://sites.google.com/view/hprt2024/home"> HPRT 2024 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Hokkaido, August 26 - September 6, 2024
+
 <a href="https://umi.dm.unibo.it/jm-umi-ams/social-events/"> AMS-UMI 2nd Joint Meeting</a>, Special session B16 <a href="https://sites.google.com/cimat.mx/umi-ams-discrete-alg-top/inicio?authuser=0"> Discrete and Combinatorial 
 Algebraic Topology, 
 Theory and Applications</a>, Palermo, July 25-26, 2024.

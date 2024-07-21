@@ -12,7 +12,6 @@ profile:
     <p>Department of Mathematics</p>
     <p>Via Zamboni, 33</p>
     <p>40126 Bologna</p>
-    <p>(IT)</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

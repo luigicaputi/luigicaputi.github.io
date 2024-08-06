@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: Image.jpg
+  image: Image_Ober.jpg
   address: >
     <p>University of Bologna</p>
     <p>Department of Mathematics</p>

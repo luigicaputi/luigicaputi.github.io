@@ -77,9 +77,9 @@ Theory and Applications</a>, Palermo, July 25-26, 2024.
 <b>June - September 2019</b>: Wiss. Mitarbeiter at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a> in the research group "Curvature, Cycles, and Cohomology".
 <br>
 <b>March 2016 - May 2019</b>: PhD student at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>.
-<br>
+<!-- <br>
 <b>October 2015</b>: Master of Science in Mathematics at  University of Pisa.
-<!--  <br>
+<br>
 <b>July 2012</b>: Bachelor of Science in Mathematics at University of Pisa. -->
 <p>
 

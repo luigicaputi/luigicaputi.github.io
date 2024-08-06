@@ -53,7 +53,8 @@ Vol. 9, 2024, No. 1, 41–88. Available <a href="https://msp.org/akt/2024/9-1/p0
 11. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
 
-
+12. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
+<b>On finite generation in magnitude (co)homology, and its torsion</b>, 2023. Accepted for publication on Bull. Lond. MAth. Soc. Available online at the arXiv:<a href="https://arxiv.org/abs/2302.06525">2302.06525 </a>.
 
 
 
@@ -69,18 +70,15 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 
 <p class=naka><h2>Preprints:</h2></p>
 
-1. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
-<b>On finite generation in magnitude (co)homology, and its torsion</b>, 2023. Available online at the arXiv:<a href="https://arxiv.org/abs/2302.06525">2302.06525 </a>.
-
-2. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, and <a href="https://ericgramos.github.io/"> Ramos, E.</a>
+1. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, and <a href="https://ericgramos.github.io/"> Ramos, E.</a>
 <b>The weak categorical quiver minor theorem and its applications: matchings, multipaths, and magnitude cohomology</b>, 2024. Available online at the arXiv:<a href="https://arxiv.org/abs/2401.01248">2401.01248 </a>.
 
-3. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and 
+2. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and 
 <a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, 
 <b>Integral Betti signature confirms the hyperbolic geometry of brain, climate, and financial networks</b>. 
 Available online at the arXiv:<a href="https://arxiv.org/abs/2406.15505">2406.15505 </a>.
 
-4. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Bridging between überhomology and double homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2406.18778">2406.18778 </a>.
+3. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Bridging between überhomology and double homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2406.18778">2406.18778 </a>.
 
 
 <p class=bold><h2>PhD Thesis:</h2></p>

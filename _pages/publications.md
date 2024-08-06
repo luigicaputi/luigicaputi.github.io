@@ -54,7 +54,7 @@ Vol. 9, 2024, No. 1, 41–88. Available <a href="https://msp.org/akt/2024/9-1/p0
 
 
 12. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
-<b>On finite generation in magnitude (co)homology, and its torsion</b>, 2023. Accepted for publication on Bull. Lond. MAth. Soc. Available online at the arXiv:<a href="https://arxiv.org/abs/2302.06525">2302.06525 </a>.
+<b>On finite generation in magnitude (co)homology, and its torsion</b>, 2023. Accepted for publication on Bull. Lond. Math. Soc. Available online at the arXiv:<a href="https://arxiv.org/abs/2302.06525">2302.06525 </a>.
 
 
 

@@ -48,7 +48,7 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 Vol. 9, 2024, No. 1, 41–88. Available <a href="https://msp.org/akt/2024/9-1/p03.xhtml">here </a> and on ArXiv:<a href="https://arxiv.org/abs/1902.04947">1902.04947 </a>.
 <br>
 
-10. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Monotone cohomologies and oriented matchings</b>. Accepted for publication on Homology, Homotopy and Applications. Available online at the arXiv:<a href="https://arxiv.org/abs/2203.03476v1">2203.03476v1 </a>.
+10. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Monotone cohomologies and oriented matchings</b>. <i>Homology, Homotopy and Applications</i>, Vol. 26 (2024) 2. DOI:<a href="http://dx.doi.org/10.4310/HHA.2024.v26.n2.a7">10.4310/HHA.2024.v26.n2.a7 </a> Available online at the arXiv:<a href="https://arxiv.org/abs/2203.03476v1">2203.03476v1 </a>.
 
 11. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 

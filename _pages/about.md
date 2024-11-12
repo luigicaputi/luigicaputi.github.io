@@ -52,19 +52,18 @@ Theory and Applications</a>, Palermo, July 25-26, 2024.
 
 <a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University,  December 4-8, 2023.
 
-<a href="https://sites.google.com/view/tdainturin/home-page"> TDA in Turin</a>, Turin, November 29, 2023
+<!-- <a href="https://sites.google.com/view/tdainturin/home-page"> TDA in Turin</a>, Turin, November 29, 2023 -->
 
-<a href="http://www.crm.sns.it/event/523/index.html#title"> CATA</a>: Combinatorial Algebraic Topology, and Applications, Pisa, November 27-28, 2023
+<!-- <a href="http://www.crm.sns.it/event/523/index.html#title"> CATA</a>: Combinatorial Algebraic Topology, and Applications, Pisa, November 27-28, 2023 -->
 
-
-<a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023
+<!-- <a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023 -->
 
 
 
 <!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->
 
 <p class=naka><b>Previous positions:</b></p>
-<b>January 2024 - December 2024</b> PostDoc at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna.
+<b>January 2024 - now</b> PostDoc at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna.
 <br>
 <b>January 2023 - December 2023</b> PostDoc at the <a href="https://www.dipmatematica.unito.it/do/home.pl/Home"> Department of Mathematics </a> of the <a href="https://www.unito.it/"> University of Torino </a>.
 <br>

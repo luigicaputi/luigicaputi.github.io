@@ -12,17 +12,14 @@ cyclic homology theories, homological stability, representations of categories, 
 
 <p class=bold><h2>Accepted papers and Publications:</h2></p>
 1. Caputi, L., <a  href='https://doi.org/10.1007/s40062-020-00263-3'> <b>Cyclic homology for bornological coarse spaces</b><a/>. <i>Journal of Homotopy and Related Structures</i> (15), 2020. 
-Available  <a  href='https://doi.org/10.1007/s40062-020-00263-3'> here<a/>.
 
 2. <a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Bunke, U.</a> and Caputi, L., 
-<b>Controlled objects as a symmetric monoidal functor</b>. <i>Higher Structures</i> 6(1): 182-211, 2022. 
-Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/BunkeCaputi'> here<a/>.
+<a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/BunkeCaputi'><b>Controlled objects as a symmetric monoidal functor</b><a/>. <i>Higher Structures</i> 6(1): 182-211, 2022. 
 
 3. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
-<b>Combinatorial and Topological Aspects of Path Posets, and Multipath Cohomology</b>. 
-<i>Journal of Algebraic Combinatorics</i> 57: 617–658, 2023. Available
- <a  href='https://link.springer.com/article/10.1007/s10801-022-01180-9'> here<a/>.
+<a  href='https://link.springer.com/article/10.1007/s10801-022-01180-9'><b>Combinatorial and Topological Aspects of Path Posets, and Multipath Cohomology</b><a/>. 
+<i>Journal of Algebraic Combinatorics</i> 57: 617–658, 2023. 
 
 4. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> 

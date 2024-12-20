@@ -23,14 +23,14 @@ cyclic homology theories, homological stability, representations of categories, 
 
 4. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> 
-<b>Categorifying connected domination via graph überhomology</b>. 
-<i>Journal of Pure and Applied Algebra</i> 227(9), 2023. Available <a href='https://www.sciencedirect.com/science/article/abs/pii/S0022404923000646'> here<a/>.
+<a href='https://www.sciencedirect.com/science/article/abs/pii/S0022404923000646'><b>Categorifying connected domination via graph überhomology</b><a/>. 
+<i>Journal of Pure and Applied Algebra</i> 227(9), 2023. 
 
 5. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
-<b>Hochschild homology, and a persistent approach via connectivity digraphs</b>. <i>Journal of Applied and Computational Topology</i>, 8, 1121–1170, 2024. Available <a href="https://link.springer.com/article/10.1007/s41468-023-00118-9"> here </a>.
+<a href="https://link.springer.com/article/10.1007/s41468-023-00118-9"><b>Hochschild homology, and a persistent approach via connectivity digraphs</b></a>. <i>Journal of Applied and Computational Topology</i>, 8, 1121–1170, 2024. 
 
 6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
-<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>From the Mayer-Vietoris spectral sequence to überhomology</b>. <i>Proceedings of the Royal Society of Edinburgh Section A: Mathematics</i>, 1-24, 2023. doi:10.1017/prm.2023.104 Available <a href="https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/from-the-mayervietoris-spectral-sequence-to-uberhomology/6D67E50FEEACCDDA0DBEACC513167708"> here </a>.
+<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <a href="https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/from-the-mayervietoris-spectral-sequence-to-uberhomology/6D67E50FEEACCDDA0DBEACC513167708"><b>From the Mayer-Vietoris spectral sequence to überhomology</b></a>. <i>Proceedings of the Royal Society of Edinburgh Section A: Mathematics</i>, 1-24, 2023. doi:10.1017/prm.2023.104 
 
 7. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, and

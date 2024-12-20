@@ -46,11 +46,11 @@ Vol. 9, 2024, No. 1, 41–88.
 
 10. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, <a href="https://link.intlpress.com/JDetail/1844208490483666945"><b>Monotone cohomologies and oriented matchings</b></a>. <i>Homology, Homotopy and Applications</i>, Vol. 26 (2), 2024.
 
-11. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. <i>Algebraic & Geometric Topology</i>, 24-8 (2024), 4373--4421. DOI 10.2140/agt.2024.24.4373. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
-
-
-12. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
+11. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.13143"><b>On finite generation in magnitude (co)homology, and its torsion</b></a>. <i>Bulletin of the London Mathematical Society</i>, 2024. 
+
+12. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. <i>Algebraic & Geometric Topology</i>, 24-8 (2024), 4373--4421. DOI 10.2140/agt.2024.24.4373. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
+
 
 
 <p class=bold><h2>Publications in applied mathematics:</h2></p>

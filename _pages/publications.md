@@ -44,22 +44,20 @@ cyclic homology theories, homological stability, representations of categories, 
 Vol. 9, 2024, No. 1, 41–88. 
 <br>
 
-10. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Monotone cohomologies and oriented matchings</b>. <i>Homology, Homotopy and Applications</i>, Vol. 26 (2024) 2. DOI:<a href="http://dx.doi.org/10.4310/HHA.2024.v26.n2.a7">10.4310/HHA.2024.v26.n2.a7 </a> Available online at the arXiv:<a href="https://arxiv.org/abs/2203.03476v1">2203.03476v1 </a>.
+10. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, <a href="https://link.intlpress.com/JDetail/1844208490483666945"><b>Monotone cohomologies and oriented matchings</b></a>. <i>Homology, Homotopy and Applications</i>, Vol. 26 (2), 2024.
 
-11. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. Accepted for publication on Algebraic & Geometric Topology. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
+11. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. <i>Algebraic & Geometric Topology</i>, 24-8 (2024), 4373--4421. DOI 10.2140/agt.2024.24.4373. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
 
 
 12. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
-<b>On finite generation in magnitude (co)homology, and its torsion</b>. <i>Bulletin of the London Mathematical Society</i>, 2024. DOI:<a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.13143">10.1112/blms.13143 </a>. Available also at arXiv:<a href="https://arxiv.org/abs/2302.06525">2302.06525 </a>.
-
+<a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.13143"><b>On finite generation in magnitude (co)homology, and its torsion</b></a>. <i>Bulletin of the London Mathematical Society</i>, 2024. 
 
 
 <p class=bold><h2>Publications in applied mathematics:</h2></p>
 
 1. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and 
 <a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, 
-<b>Promises and pitfalls of Topological Data Analysis for brain connectivity analysis</b>. <i>Neuroimage</i> 2021, vol. 238. 
-Available  <a  href='https://doi.org/10.1016/j.neuroimage.2021.118245'> here<a/>. 
+<a  href='https://doi.org/10.1016/j.neuroimage.2021.118245'><b>Promises and pitfalls of Topological Data Analysis for brain connectivity analysis</b><a/>. <i>Neuroimage</i> 2021, vol. 238. 
 Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_connectivity'> here<a/>.
 
 

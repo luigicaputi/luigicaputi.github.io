@@ -18,19 +18,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Postdoctoral fellow at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna. Before that, I was a postdoc at the  <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics</a> of the 
-<a href="https://www.unito.it/"> University of Torino</a>, a Research Fellow  at the
+I am a research fellow at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna. Before that, I was a postdoc at the  <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics</a> of the University of Torino, a research fellow  at the
  <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> 
-of the <a href="https://www.abdn.ac.uk/"> University of Aberdeen</a>, and a Postdoctoral fellow with the
+of the University of Aberdeen, and a Postdoctoral fellow with the
 <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague. 
 
 
 I have completed my Ph.D. in Mathematics at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>, 
 under the supervision of 
-<a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Prof. Dr. Ulrich Bunke</a> and 
-<a href="http://www.mathematik.uni-r.de/loeh/"> Prof. Dr. Clara L&ouml;h</a> with a thesis on <a href="https://epub.uni-regensburg.de/40219/"> Hochschild and cyclic homology for bornological coarse spaces</a>. I was supported by the research grants
-	<a href="http://www-app.uni-regensburg.de/Fakultaeten/MAT/GK/index.php/Main_Page"> Curvature, Cycles, and Cohomology</a> and 
-	the <a href="http://www-cgi.uni-regensburg.de/Fakultaeten/MAT/sfb-higher-invariants/index.php/SFB1085"> 
+<a href="https://bunke.app.uni-regensburg.de/"> Prof. Dr. Ulrich Bunke</a> and 
+<a href="https://loeh.app.uni-regensburg.de/index.html"> Prof. Dr. Clara L&ouml;h</a> with a thesis on <a href="https://epub.uni-regensburg.de/40219/"> Hochschild and cyclic homology for bornological coarse spaces</a>. I was supported by the research grants GRK 1692: Curvature, Cycles, and Cohomology, and 
+	the <a href="https://sfb-higher-invariants.app.uni-regensburg.de/index.php?title=Main_Page"> 
 	DFG SFB 1085 &#8220;Higher Invariants&#8221;</a>. 
 	
 	
@@ -38,7 +36,7 @@ under the supervision of
 
 My main subject is Algebraic Topology. More specifically, my research involves a mixture of homotopy
 theory, homological algebra, category theory, combinatorial and geometric topology.
-I am interested in homology and homotopy theories, coarse geometry, combinatorial topology, K-theory, and applications of homotopy and category theory to graphs and complex systems, such as applications of TDA to neuroscience and brain dynamics.
+I am generally interested in homology and homotopy theories, coarse geometry, combinatorial topology, K-theory, and in their applications.
 
 <b>Recent and upcoming activities</b>
 
@@ -65,11 +63,11 @@ Theory and Applications</a>, Palermo, July 25-26, 2024.
 <p class=naka><b>Previous positions:</b></p>
 <b>January 2024 - now</b> PostDoc at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna.
 <br>
-<b>January 2023 - December 2023</b> PostDoc at the <a href="https://www.dipmatematica.unito.it/do/home.pl/Home"> Department of Mathematics </a> of the <a href="https://www.unito.it/"> University of Torino </a>.
+<b>January 2023 - December 2023</b> PostDoc at the <a href="https://www.dipmatematica.unito.it/do/home.pl/Home"> Department of Mathematics </a> of the University of Torino.
 <br>
 <b>September 2022 - December 2022</b> PostDoc with the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague.
 <br>
-<b>November 2020 - August 2022</b> Research Fellow with the <a href="https://www.abdn.ac.uk/ncs/departments/mathematics/ntg-1156.php"> Aberdeen Neuro-Topology Research Group</a>.
+<b>November 2020 - August 2022</b> Research Fellow with the <a href="https://www.abdn.ac.uk/ncs/departments/mathematics/"> Department of Mathematics</a> of the University of Aberdeen.
 <br>
 <b>November 2019 - October 2020</b> PostDoc with the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague.
 <br>

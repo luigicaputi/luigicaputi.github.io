@@ -11,7 +11,7 @@ Interests: algebraic and combinatorial topology, coarse geometry, Hochschild and
 cyclic homology theories, homological stability, representations of categories, K-theory, applications to TDA.
 
 <p class=bold><h2>Accepted papers and Publications:</h2></p>
-1. Caputi, L., <b>Cyclic homology for bornological coarse spaces</b>. <i>Journal of Homotopy and Related Structures</i> (15), 2020. 
+1. Caputi, L., <a  href='https://doi.org/10.1007/s40062-020-00263-3'> <b>Cyclic homology for bornological coarse spaces</b><a/>. <i>Journal of Homotopy and Related Structures</i> (15), 2020. 
 Available  <a  href='https://doi.org/10.1007/s40062-020-00263-3'> here<a/>.
 
 2. <a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Bunke, U.</a> and Caputi, L., 

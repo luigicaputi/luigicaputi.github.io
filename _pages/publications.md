@@ -8,7 +8,7 @@ nav: true
 ---
 
 Interests: algebraic and combinatorial topology, coarse geometry, Hochschild and
-cyclic homology theories, homological stability and stable homology, representations of categories, K-theory, applications of these to graph theory and neuroscience.
+cyclic homology theories, homological stability, representations of categories, K-theory, applications to TDA.
 
 <p class=bold><h2>Accepted papers and Publications:</h2></p>
 1. Caputi, L., <b>Cyclic homology for bornological coarse spaces</b>. <i>Journal of Homotopy and Related Structures</i> (15), 2020. 
@@ -27,7 +27,7 @@ Available <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6I
 4. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> 
 <b>Categorifying connected domination via graph überhomology</b>. 
-<i>Journal of Pure and Applied Algebra</i> 227(9), 2023. Available online <a href='https://www.sciencedirect.com/science/article/abs/pii/S0022404923000646'> here<a/>, or at arXiv:<a href="https://arxiv.org/abs/2201.00721">2201.00721 </a>.
+<i>Journal of Pure and Applied Algebra</i> 227(9), 2023. Available <a href='https://www.sciencedirect.com/science/article/abs/pii/S0022404923000646'> here<a/>.
 
 5. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a> 
 <b>Hochschild homology, and a persistent approach via connectivity digraphs</b>. <i>Journal of Applied and Computational Topology</i>, 2023. Available online <a href="https://link.springer.com/article/10.1007/s41468-023-00118-9"> here </a>.

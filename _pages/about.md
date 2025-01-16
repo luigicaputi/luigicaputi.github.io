@@ -40,7 +40,7 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <b>Recent and upcoming activities</b>
 
-From February 2025 to May 2025 I am vising <a href="https://www.sci.fukuoka-u.ac.jp/en/index.html"> Fukuoka University</a>. 
+From February 2025 to May 2025 I am vising the department of mathematics of <a href="https://www.sci.fukuoka-u.ac.jp/en/index.html"> Fukuoka University</a>. 
 
 <a href="http://www.crm.sns.it/event/532/index.html#title"> CATA II</a>: Combinatorial Algebraic Topology, and Applications II, Pisa, October 1-4, 2024
 

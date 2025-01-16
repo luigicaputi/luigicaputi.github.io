@@ -49,8 +49,7 @@ Vol. 9, 2024, No. 1, 41–88.
 11. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.13143"><b>On finite generation in magnitude (co)homology, and its torsion</b></a>. <i>Bulletin of the London Mathematical Society</i>, 2024. 
 
-12. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <b>Multipath cohomology of directed graphs</b>. <i>Algebraic & Geometric Topology</i>, 24-8 (2024), 4373--4421. DOI 10.2140/agt.2024.24.4373. Available online at the arXiv:<a href="https://arxiv.org/abs/2108.02690">2108.02690 </a>.
-
+12. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <a href="https://msp.org/agt/2024/24-8/p07.xhtml"><b>Multipath cohomology of directed graphs</b></a>.. <i>Algebraic & Geometric Topology</i>, 24-8 (2024), 4373--4421. DOI 10.2140/agt.2024.24.4373. 
 
 
 <p class=bold><h2>Publications in applied mathematics:</h2></p>

@@ -40,6 +40,8 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <b>Recent and upcoming activities</b>
 
+From February 2025 to May 2025 I am vising <a href="https://www.sci.fukuoka-u.ac.jp/en/index.html"> Fukuoka University</a>. 
+
 <a href="http://www.crm.sns.it/event/532/index.html#title"> CATA II</a>: Combinatorial Algebraic Topology, and Applications II, Pisa, October 1-4, 2024
 
 <a href="https://sites.google.com/view/hprt2024/home"> HPRT 2024 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Hokkaido, August 26 - September 6, 2024
@@ -60,7 +62,7 @@ Theory and Applications</a>, Palermo, July 25-26, 2024.
 
 <!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. -->
 
-<p class=naka><b>Previous positions:</b></p>
+<p class=naka><b>Previously:</b></p>
 <b>January 2024 - now</b> PostDoc at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna.
 <br>
 <b>January 2023 - December 2023</b> PostDoc at the <a href="https://www.dipmatematica.unito.it/do/home.pl/Home"> Department of Mathematics </a> of the University of Torino.

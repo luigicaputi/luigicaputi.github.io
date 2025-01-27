@@ -50,7 +50,7 @@ From February 2025 to May 2025 I am vising the department of mathematics of <a h
 Algebraic Topology, 
 Theory and Applications</a>, Palermo, July 25-26, 2024.
 
-<a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University,  December 4-8, 2023.
+<!-- <a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University,  December 4-8, 2023. -->
 
 <!-- <a href="https://sites.google.com/view/tdainturin/home-page"> TDA in Turin</a>, Turin, November 29, 2023 -->
 

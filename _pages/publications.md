@@ -77,6 +77,9 @@ Available online at the arXiv:<a href="https://arxiv.org/abs/2406.15505">2406.15
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
 <b>Multipath matroids, digraph colourings, and the Tutte polynomial</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2409.14528">2409.14528 </a>.
 
+5. Caputi, L. and <a href="https://sites.google.com/view/giuliamariamenara/"> Menara, G.</a>, 
+<b>Eulerian magnitude homology: diagonality, injective words, and regular path homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2503.06722">2503.06722 </a>.
+
 
 
 <p class=bold><h2>PhD Thesis:</h2></p>

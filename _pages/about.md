@@ -42,6 +42,8 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 From February 2025 to May 2025 I am vising the department of mathematics of <a href="https://www.sci.fukuoka-u.ac.jp/en/index.html"> Fukuoka University</a>. 
 
+<a href="https://events.dm.unipi.it/event/292/"> Topology of Arrangements with an Eye to Applications</a>, Pisa, September 1-5, 2025
+
 <a href="https://www.mca2025.org/event/9e9666dd-2643-423b-b343-91f10f36e686/mca-2025"> MCA 2025</a>: Mathematical Congress of the Americas 2025, Miami, July 21-25, 2025
 
 <a href="http://www.fields.utoronto.ca/activities/25-26/algebraic-topology"> Focus Program on Algebraic Topology In memory of Fred Cohen</a> at The Fields Institute for Research in Mathematical Sciences, Toronto, July 2-August 1, 2025

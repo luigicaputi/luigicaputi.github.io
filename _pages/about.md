@@ -24,10 +24,10 @@ of the University of Aberdeen, and a Postdoctoral fellow with the
 <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague. 
 
 
-I have completed my Ph.D. in Mathematics at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>, 
+I have completed my Ph.D. in Mathematics at the <a href="https://www.uni-regensburg.de/"> University of Regensburg</a>, 
 under the supervision of 
-<a href="https://bunke.app.uni-regensburg.de/"> Prof. Dr. Ulrich Bunke</a> and 
-<a href="https://loeh.app.uni-regensburg.de/index.html"> Prof. Dr. Clara L&ouml;h</a> with a thesis on <a href="https://epub.uni-regensburg.de/40219/"> Hochschild and cyclic homology for bornological coarse spaces</a>. I was supported by the research grants GRK 1692: Curvature, Cycles, and Cohomology, and 
+<a href="https://bunke.app.uni-regensburg.de/"> Ulrich Bunke</a> and 
+<a href="https://loeh.app.uni-regensburg.de/index.html"> Clara L&ouml;h</a> with a thesis on <a href="https://epub.uni-regensburg.de/40219/"> Hochschild and cyclic homology for bornological coarse spaces</a>. I was supported by the research grants GRK 1692: Curvature, Cycles, and Cohomology, and 
 	the <a href="https://sfb-higher-invariants.app.uni-regensburg.de/index.php?title=Main_Page"> 
 	DFG SFB 1085 &#8220;Higher Invariants&#8221;</a>. 
 	
@@ -41,6 +41,12 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 <b>Recent and upcoming activities</b>
 
 From February 2025 to May 2025 I am vising the department of mathematics of <a href="https://www.sci.fukuoka-u.ac.jp/en/index.html"> Fukuoka University</a>. 
+
+<a href="https://www.mca2025.org/event/9e9666dd-2643-423b-b343-91f10f36e686/mca-2025"> MCA 2025</a>: Mathematical Congress of the Americas 2025, Miami, July 21-25, 2025
+
+<a href="http://www.fields.utoronto.ca/activities/25-26/algebraic-topology"> Focus Program on Algebraic Topology In memory of Fred Cohen</a> at The Fields Institute for Research in Mathematical Sciences, Toronto, July 2-August 1, 2025
+
+<a href="https://sites.google.com/view/arrangement-days-in-osaka/"> Arrangement Days in Osaka</a>, Osaka, March 24-26, 2025
 
 <a href="http://www.crm.sns.it/event/532/index.html#title"> CATA II</a>: Combinatorial Algebraic Topology, and Applications II, Pisa, October 1-4, 2024
 

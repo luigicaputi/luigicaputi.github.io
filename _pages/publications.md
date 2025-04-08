@@ -7,7 +7,7 @@ years: [2020]
 nav: true
 ---
 
-Interests: algebraic and combinatorial topology, coarse geometry, Hochschild and
+Interests: algebraic and combinatorial topology, homologies of graphs, coarse geometry, Hochschild and
 cyclic homology theories, homological stability, representations of categories, K-theory, applications to TDA.
 
 <p class=bold><h2>Accepted papers and Publications:</h2></p>

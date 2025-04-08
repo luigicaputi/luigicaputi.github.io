@@ -58,13 +58,13 @@ From February 2025 to May 2025 I am vising the department of mathematics of <a h
 Algebraic Topology, 
 Theory and Applications</a>, Palermo, July 25-26, 2024.
 
-<!-- <a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University,  December 4-8, 2023. -->
+<a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University,  December 4-8, 2023. 
 
-<!-- <a href="https://sites.google.com/view/tdainturin/home-page"> TDA in Turin</a>, Turin, November 29, 2023 -->
+<a href="https://sites.google.com/view/tdainturin/home-page"> TDA in Turin</a>, Turin, November 29, 2023.
 
-<!-- <a href="http://www.crm.sns.it/event/523/index.html#title"> CATA</a>: Combinatorial Algebraic Topology, and Applications, Pisa, November 27-28, 2023 -->
+<a href="http://www.crm.sns.it/event/523/index.html#title"> CATA</a>: Combinatorial Algebraic Topology, and Applications, Pisa, November 27-28, 2023.
 
-<!-- <a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023 -->
+<a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023.
 
 
 

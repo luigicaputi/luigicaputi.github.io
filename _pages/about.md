@@ -52,6 +52,8 @@ From February 2025 to May 2025 I am vising the department of mathematics of <a h
 
 <a href="http://www.fields.utoronto.ca/activities/25-26/algebraic-topology"> Focus Program on Algebraic Topology In memory of Fred Cohen</a> at The Fields Institute for Research in Mathematical Sciences, Toronto, July 2-August 1, 2025
 
+<a href="https://jademaster.xyz/TACT25.html"> Transactions in Category Theory 2025</a>, University of Strathclyde - Glasgow (hybrid), June 2nd, 2025
+
 <a href="https://sites.google.com/view/arrangement-days-in-osaka/"> Arrangement Days in Osaka</a>, Osaka, March 24-26, 2025
 
 <a href="http://www.crm.sns.it/event/532/index.html#title"> CATA II</a>: Combinatorial Algebraic Topology, and Applications II, Pisa, October 1-4, 2024

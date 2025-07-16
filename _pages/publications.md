@@ -90,3 +90,6 @@ Available online at the arXiv:<a href="https://arxiv.org/abs/2406.15505">2406.15
 01/11/2023, <b>From the Mayer-Vietoris spectral sequence to überhomology</b> available on <a href="https://www.youtube.com/watch?v=wa58sRq-Uuk"> Youtube</a>, Cohomology in algebra, geometry, physics and statistics seminars, Institute of Mathematics of the Czech Academy of Sciences, Prague
 
 10/04/2024, <b>The weak categorical quiver minor theorem and its applications</b> available <a href="https://bimsa.net:10000/talk.html?id=29124"> here</a>, BIMSA Topology Seminar, online
+
+10/07/2025, <b>Bridging between überhomology and double homology</b> available on <a href="https://www.youtube.com/watch?v=ubDGJFi_weY"> Youtube</a>, and <a href="http://www.fields.utoronto.ca/talks/Bridging-between-%C3%BCberhomology-and-double-homology"> here</a>, Focus Program on Algebraic Topology In memory of Fred Cohen - Workshop on Homotopy Theory, The Fields Institute for
+Research in Mathematical Sciences, Toronto

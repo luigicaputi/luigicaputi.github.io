@@ -9,7 +9,6 @@ profile:
   image: Image_Ober.jpg
   address: >
     <p>University of Bologna</p>
-    <p>Department of Mathematics</p>
     <p>Via Zamboni, 33</p>
     <p>40126 Bologna</p>
 
@@ -50,6 +49,8 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <a href="http://www.crm.sns.it/event/523/index.html#title"> CATA</a>: Combinatorial Algebraic Topology, and Applications, Pisa, November 27-28, 2023.
 
+<a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023.
+
 <b>Recent and upcoming attended conferences</b>
 
 <a href="https://sites.google.com/site/topolalgeb/home/conferences/sajdhm2025/"> SAJDHM2025</a>: South African-Japanese Discrete Homotopy Meeting 2025, Cape Town, South Africa, September 10-11 2025.
@@ -76,7 +77,6 @@ Theory and Applications</a>, Palermo, July 25-26, 2024.
 
 <a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University,  December 4-8, 2023. 
 
-<a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023.
 
 
 

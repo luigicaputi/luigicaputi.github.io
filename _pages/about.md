@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research fellow at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna. Before that, I was a postdoc at the  <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics</a> of the University of Torino, a research fellow  at the
+I am a research fellow (assegnista di ricerca) at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna. Before that, I was  at the  <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics</a> of the University of Torino, a research fellow  at the
  <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> 
 of the University of Aberdeen, and a Postdoctoral fellow with the
 <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague. 
@@ -27,28 +27,37 @@ of the University of Aberdeen, and a Postdoctoral fellow with the
 I have completed my Ph.D. in Mathematics at the <a href="https://www.uni-regensburg.de/"> University of Regensburg</a>, 
 under the supervision of 
 <a href="https://bunke.app.uni-regensburg.de/"> Ulrich Bunke</a> and 
-<a href="https://loeh.app.uni-regensburg.de/index.html"> Clara L&ouml;h</a> with a thesis on <a href="https://epub.uni-regensburg.de/40219/"> Hochschild and cyclic homology for bornological coarse spaces</a>. I was supported by the research grants GRK 1692: Curvature, Cycles, and Cohomology, and 
+<a href="https://loeh.app.uni-regensburg.de/index.html"> Clara L&ouml;h</a>. I was supported by the research grants GRK 1692: Curvature, Cycles, and Cohomology, and 
 	the <a href="https://sfb-higher-invariants.app.uni-regensburg.de/index.php?title=Main_Page"> 
 	DFG SFB 1085 &#8220;Higher Invariants&#8221;</a>. 
 	
 	
 <b>Research interests</b>	
 
-My main subject is Algebraic Topology. More specifically, my research involves a mixture of homotopy
+My research involves a mixture of homotopy
 theory, homological algebra, category theory, combinatorial and geometric topology.
-I am generally interested in homology and homotopy theories, coarse geometry, combinatorial topology, K-theory, and in their applications.
+I am generally interested in homology and homotopy theories, coarse geometry, combinatorial topology, K-theory, and their applications.
 
-<b>Recent and upcoming activities</b>
-
-From February 2025 to May 2025 I am vising the department of mathematics of <a href="https://www.sci.fukuoka-u.ac.jp/en/index.html"> Fukuoka University</a>. 
+<b>Recent and upcoming organized activities</b>
 
 <a href="https://crmdegiorgi.sns.it/evento/combinatorial-algebraic-topology-applications-iii/"> CATA III</a>: Combinatorial Algebraic Topology, and Applications III, Pisa, September 16-19, 2025
+
+<a href="http://www.crm.sns.it/event/532/index.html#title"> CATA II</a>: Combinatorial Algebraic Topology, and Applications II, Pisa, October 1-4, 2024
+
+<a href="https://sites.google.com/view/hprt2024/home"> HPRT 2024 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Hokkaido, August 26 - September 6, 2024
+
+<a href="https://sites.google.com/view/tdainturin/home-page"> TDA in Turin</a>, Turin, November 29, 2023.
+
+<a href="http://www.crm.sns.it/event/523/index.html#title"> CATA</a>: Combinatorial Algebraic Topology, and Applications, Pisa, November 27-28, 2023.
+
+<b>Recent and upcoming attended conferences</b>
 
 <a href="https://sites.google.com/site/topolalgeb/home/conferences/sajdhm2025/"> SAJDHM2025</a>: South African-Japanese Discrete Homotopy Meeting 2025, Cape Town, South Africa, September 10-11 2025.
 
 <a href="https://events.dm.unipi.it/event/292/"> Topology of Arrangements with an Eye to Applications</a>, Pisa, September 1-5, 2025
 
 <a href="https://www.mca2025.org/event/9e9666dd-2643-423b-b343-91f10f36e686/mca-2025"> MCA 2025</a>: Mathematical Congress of the Americas 2025, Miami, July 21-25, 2025
+
 
 <a href="http://www.fields.utoronto.ca/activities/25-26/algebraic-topology"> Focus Program on Algebraic Topology In memory of Fred Cohen</a> at The Fields Institute for Research in Mathematical Sciences, Toronto, July 2-August 1, 2025
 
@@ -58,19 +67,14 @@ From February 2025 to May 2025 I am vising the department of mathematics of <a h
 
 <a href="https://sites.google.com/view/arrangement-days-in-osaka/"> Arrangement Days in Osaka</a>, Osaka, March 24-26, 2025
 
-<a href="http://www.crm.sns.it/event/532/index.html#title"> CATA II</a>: Combinatorial Algebraic Topology, and Applications II, Pisa, October 1-4, 2024
+From February 2025 to May 2025 I was vising the department of mathematics of <a href="https://www.sci.fukuoka-u.ac.jp/en/index.html"> Fukuoka University</a>. 
 
-<a href="https://sites.google.com/view/hprt2024/home"> HPRT 2024 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Hokkaido, August 26 - September 6, 2024
 
 <a href="https://umi.dm.unibo.it/jm-umi-ams/social-events/"> AMS-UMI 2nd Joint Meeting</a>, Special session B16 <a href="https://sites.google.com/cimat.mx/umi-ams-discrete-alg-top/inicio?authuser=0"> Discrete and Combinatorial 
 Algebraic Topology, 
 Theory and Applications</a>, Palermo, July 25-26, 2024.
 
 <a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University,  December 4-8, 2023. 
-
-<a href="https://sites.google.com/view/tdainturin/home-page"> TDA in Turin</a>, Turin, November 29, 2023.
-
-<a href="http://www.crm.sns.it/event/523/index.html#title"> CATA</a>: Combinatorial Algebraic Topology, and Applications, Pisa, November 27-28, 2023.
 
 <a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023.
 

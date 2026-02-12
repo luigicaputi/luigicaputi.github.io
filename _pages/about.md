@@ -37,7 +37,7 @@ My research involves a mixture of homotopy
 theory, homological algebra, category theory, combinatorial and geometric topology.
 I am generally interested in homology and homotopy theories, coarse geometry, combinatorial topology, K-theory, and their applications.
 
-<b>Recent and upcoming organized activities</b>
+<p class=bold><h2>Recent and upcoming organized activities:</h2></p>
 
 <a href="https://crmdegiorgi.sns.it/evento/combinatorial-algebraic-topology-applications-iv/#website/"> Homology and homotopy in the world of graphs</a>, Bernoulli center, Lausanne, September 14-18, 2026
 

@@ -77,7 +77,7 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 4. Caputi, L. and <a href="https://sites.google.com/view/giuliamariamenara/"> Menara, G.</a>, 
 <b>Eulerian magnitude homology: diagonality, injective words, and regular path homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2503.06722">2503.06722 </a>.
 
-5. Caputi, L., Meadows, N., and  <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a>, 
+5. Caputi, L., <a href="https://www.researchgate.net/scientific-contributions/Nicholas-J-Meadows-2079005012"> Meadows, N.</a>, and  <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a>, 
 <b>Persistent reachability homology in machine learning applications</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2511.04825">2511.04825 </a>.
 
 6. Caputi, L. and <a href="https://www.polito.it/en/staff?p=francesco.vaccarino"> Vaccarino, F.</a>, 

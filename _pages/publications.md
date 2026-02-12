@@ -59,17 +59,14 @@ Vol. 9, 2024, No. 1, 41–88.
 <a  href='https://doi.org/10.1016/j.neuroimage.2021.118245'><b>Promises and pitfalls of Topological Data Analysis for brain connectivity analysis</b><a/>. <i>Neuroimage</i> 2021, vol. 238. 
 Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_connectivity'> here<a/>.
 
-
+2. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and 
+<a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, 
+<a  href='https://www.nature.com/articles/s41598-025-31700-z'><b>Integral Betti signatures of brain, climate and financial networks compared to hyperbolic, Euclidean and spherical models</b><a/>. <i>Scientific Reports</i> 2026, 16(1). 
 
 <p class=naka><h2>Preprints:</h2></p>
 
 1. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, and <a href="https://ericgramos.github.io/"> Ramos, E.</a>
 <b>The weak categorical quiver minor theorem and its applications: matchings, multipaths, and magnitude cohomology</b>, 2024. Available online at the arXiv:<a href="https://arxiv.org/abs/2401.01248">2401.01248 </a>.
-
-2. Caputi, L., <a href="http://cobra.cs.cas.cz/wiki/pmwiki.php/Main/AnnaPidnebesna"> Pidnebesna, A.</a> and 
-<a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, 
-<b>Integral Betti signature confirms the hyperbolic geometry of brain, climate, and financial networks</b>. 
-Available online at the arXiv:<a href="https://arxiv.org/abs/2406.15505">2406.15505 </a>.
 
 3. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Bridging between überhomology and double homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2406.18778">2406.18778 </a>.
 

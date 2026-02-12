@@ -39,7 +39,7 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <b>Recent and upcoming organized activities</b>
 
-<a href="<a href="https://crmdegiorgi.sns.it/evento/combinatorial-algebraic-topology-applications-iv/#website/"> Homology and homotopy in the world of graphs</a>, Bernoulli center, Lausanne, September 14-18, 2026
+<a href="https://crmdegiorgi.sns.it/evento/combinatorial-algebraic-topology-applications-iv/#website/"> Homology and homotopy in the world of graphs</a>, Bernoulli center, Lausanne, September 14-18, 2026
 
 <a href="https://crmdegiorgi.sns.it/evento/combinatorial-algebraic-topology-applications-iv/#website/"> CATA IV</a>: Combinatorial Algebraic Topology, and Applications IV, Pisa, June 22-25, 2026
 
@@ -55,7 +55,7 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023.
 
-<b>Recent and upcoming attended conferences</b>
+<b>Recent and upcoming (attended) conferences</b>
 
 <a href="https://sites.google.com/site/topolalgeb/home/conferences/sajdhm2025/"> SAJDHM2025</a>: South African-Japanese Discrete Homotopy Meeting 2025, Cape Town, South Africa, September 10-11 2025.
 

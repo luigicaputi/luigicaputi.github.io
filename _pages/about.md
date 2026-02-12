@@ -39,6 +39,10 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <b>Recent and upcoming organized activities</b>
 
+<a href="<a href="https://crmdegiorgi.sns.it/evento/combinatorial-algebraic-topology-applications-iv/#website/"> Homology and homotopy in the world of graphs</a>, Bernoulli center, Lausanne, September 14-18, 2026
+
+<a href="https://crmdegiorgi.sns.it/evento/combinatorial-algebraic-topology-applications-iv/#website/"> CATA IV</a>: Combinatorial Algebraic Topology, and Applications IV, Pisa, June 22-25, 2026
+
 <a href="https://crmdegiorgi.sns.it/evento/combinatorial-algebraic-topology-applications-iii/"> CATA III</a>: Combinatorial Algebraic Topology, and Applications III, Pisa, September 16-19, 2025
 
 <a href="http://www.crm.sns.it/event/532/index.html#title"> CATA II</a>: Combinatorial Algebraic Topology, and Applications II, Pisa, October 1-4, 2024

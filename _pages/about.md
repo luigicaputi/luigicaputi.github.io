@@ -55,7 +55,7 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023.
 
-<p class=bold><h2>Recent and upcoming (attended) conferences:</h2></p>
+<p class=bold><h2>Recent and upcoming conferences:</h2></p>
 
 <a href="https://progetto-itaca.github.io/ItaCa-25/"> 6th ItaCa Workshop</a>, Milano, December 22-23 2025.
 
@@ -75,8 +75,6 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 <a href="https://jademaster.xyz/TACT25.html"> Transactions in Category Theory 2025</a>, University of Strathclyde - Glasgow (hybrid), June 2nd, 2025
 
 <a href="https://sites.google.com/view/arrangement-days-in-osaka/"> Arrangement Days in Osaka</a>, Osaka, March 24-26, 2025
-
-From February 2025 to May 2025 I was vising the department of mathematics of <a href="https://www.sci.fukuoka-u.ac.jp/en/index.html"> Fukuoka University</a>. 
 
 
 <a href="https://umi.dm.unibo.it/jm-umi-ams/social-events/"> AMS-UMI 2nd Joint Meeting</a>, Special session B16 <a href="https://sites.google.com/cimat.mx/umi-ams-discrete-alg-top/inicio?authuser=0"> Discrete and Combinatorial 

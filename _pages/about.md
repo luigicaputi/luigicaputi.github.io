@@ -55,7 +55,8 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023.
 
-<b>Recent and upcoming (attended) conferences</b>
+<p class=bold><h2>Recent and upcoming (attended) conferences:</h2></p>
+
 
 <a href="https://sites.google.com/site/topolalgeb/home/conferences/sajdhm2025/"> SAJDHM2025</a>: South African-Japanese Discrete Homotopy Meeting 2025, Cape Town, South Africa, September 10-11 2025.
 

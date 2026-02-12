@@ -57,6 +57,7 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <p class=bold><h2>Recent and upcoming (attended) conferences:</h2></p>
 
+<a href="https://progetto-itaca.github.io/ItaCa-25/"> 6th ItaCa Workshop</a>, Milano, December 22-23 2025.
 
 <a href="https://sites.google.com/site/topolalgeb/home/conferences/sajdhm2025/"> SAJDHM2025</a>: South African-Japanese Discrete Homotopy Meeting 2025, Cape Town, South Africa, September 10-11 2025.
 

@@ -39,6 +39,8 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <p class=bold><h2>Recent and upcoming organized activities:</h2></p>
 
+<a href="https://indico.sns.it/event/143/"> 7th Italian-Japanese summer school in Mathematics </a>, Pisa, September 15 - September 25, 2026
+
 <a href="https://sites.google.com/view/hhgraphs"> Homology and homotopy in the world of graphs</a>, Bernoulli center, Lausanne, September 14-18, 2026
 
 <a href="https://crmdegiorgi.sns.it/evento/combinatorial-algebraic-topology-applications-iv/#website/"> CATA IV</a>: Combinatorial Algebraic Topology, and Applications IV, Pisa, June 22-25, 2026

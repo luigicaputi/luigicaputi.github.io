@@ -56,7 +56,10 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <a href="https://sites.google.com/view/2023hprt/home?authuser=0"> HPRT 2023 </a>: Hokkaido-Pisa-Roma Tor Vergata-Torino Summer School and Workshop, Torino, August-September 2023.
 
-<p class=bold><h2>Recent and upcoming conferences:</h2></p>
+
+<p class=bold><h2>Selected and upcoming conferences:</h2></p>
+
+<a href="https://www.birs.ca/events/2026/5-day-workshops/26w5516"> Toric Topology and Polyhedral Products Collaborative Network</a>, Banff, July 26-31, 2026.
 
 <a href="https://sites.google.com/view/multiple-perspectives-on-hh"> Multiple perspectives on Hochschild cohomology</a>, Padova, May 28-29 2026.
 

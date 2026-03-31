@@ -58,6 +58,8 @@ I am generally interested in homology and homotopy theories, coarse geometry, co
 
 <p class=bold><h2>Recent and upcoming conferences:</h2></p>
 
+<a href="https://sites.google.com/view/multiple-perspectives-on-hh"> Multiple perspectives on Hochschild cohomology</a>, Padova, May 28-29 2026.
+
 <a href="https://progetto-itaca.github.io/ItaCa-25/"> 6th ItaCa Workshop</a>, Milano, December 22-23 2025.
 
 <a href="https://sites.google.com/uniroma1.it/caremath/home-page"> CARE</a>: Collaborations in  Algebra, Representation theory and Ethics, Lyon, October 27-31 2025.

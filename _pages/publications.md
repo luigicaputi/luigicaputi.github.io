@@ -87,6 +87,9 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 <a href="https://jasonpsmith.github.io/"> Smith, J. P.</a>, 
 <b>Multipath complexes of bidirectional polygonal digraphs</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2601.05670">2601.05670 </a>.
 
+8. Caputi, L., and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
+<b> On the K-theory of matroids with Tutte coverings </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2603.18288">2603.18288 </a>.
+
 
 <p class=bold><h2>PhD Thesis:</h2></p>
 <b> Hochschild and cyclic homology for bornological coarse spaces,</b> PhD thesis, University of Regensburg, 2019. Available <a href="https://epub.uni-regensburg.de/40219/"> here</a>.

@@ -20,15 +20,14 @@ social: true # includes social icons at the bottom of the page
 I am a research fellow (assegnista di ricerca) at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna. Before that, I was  at the  <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics</a> of the University of Torino, a research fellow  at the
  <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> 
 of the University of Aberdeen, and a Postdoctoral fellow with the
-<a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague. 
-
-
-I have completed my Ph.D. in Mathematics at the <a href="https://www.uni-regensburg.de/"> University of Regensburg</a>, 
+<a href="http://www.avcr.cz/cs/"> ICS Czech Academy of Sciences</a> in Prague. 
+I completed my Ph.D. in Mathematics at the <a href="https://www.uni-regensburg.de/"> University of Regensburg</a>, 
 under the supervision of 
 <a href="https://bunke.app.uni-regensburg.de/"> Ulrich Bunke</a> and 
-<a href="https://loeh.app.uni-regensburg.de/index.html"> Clara L&ouml;h</a>. I was supported by the research grants GRK 1692: Curvature, Cycles, and Cohomology, and 
+<a href="https://loeh.app.uni-regensburg.de/index.html"> Clara L&ouml;h</a>. 
+<!-- <p> I was supported by the research grants GRK 1692: Curvature, Cycles, and Cohomology, and 
 	the <a href="https://sfb-higher-invariants.app.uni-regensburg.de/index.php?title=Main_Page"> 
-	DFG SFB 1085 &#8220;Higher Invariants&#8221;</a>. 
+	DFG SFB 1085 &#8220;Higher Invariants&#8221;</a>. -->
 	
 	
 <b>Research interests</b>	

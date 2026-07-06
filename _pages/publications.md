@@ -51,6 +51,10 @@ Vol. 9, 2024, No. 1, 41–88.
 
 12. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <a href="https://msp.org/agt/2024/24-8/p07.xhtml"><b>Multipath cohomology of directed graphs</b></a>. <i>Algebraic & Geometric Topology</i>, 24-8 (2024), 4373--4421. DOI 10.2140/agt.2024.24.4373. 
 
+13. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
+<a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
+<b>Multipath matroids, digraph colourings, and the Tutte polynomial</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2409.14528">2409.14528 </a>. To appear on <i>Discrete Mathematics</i>.
+
 
 <p class=bold><h2>Publications in applied mathematics:</h2></p>
 
@@ -70,29 +74,25 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 
 2. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Bridging between überhomology and double homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2406.18778">2406.18778 </a>.
 
-3. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
-<a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
-<b>Multipath matroids, digraph colourings, and the Tutte polynomial</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2409.14528">2409.14528 </a>.
-
-4. Caputi, L. and <a href="https://sites.google.com/view/giuliamariamenara/"> Menara, G.</a>, 
+3. Caputi, L. and <a href="https://sites.google.com/view/giuliamariamenara/"> Menara, G.</a>, 
 <b>Eulerian magnitude homology: diagonality, injective words, and regular path homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2503.06722">2503.06722 </a>.
 
-5. Caputi, L., <a href="https://www.researchgate.net/scientific-contributions/Nicholas-J-Meadows-2079005012"> Meadows, N.</a>, and  <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a>, 
+4. Caputi, L., <a href="https://www.researchgate.net/scientific-contributions/Nicholas-J-Meadows-2079005012"> Meadows, N.</a>, and  <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a>, 
 <b>Persistent reachability homology in machine learning applications</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2511.04825">2511.04825 </a>.
 
-6. Caputi, L. and <a href="https://www.polito.it/en/staff?p=francesco.vaccarino"> Vaccarino, F.</a>, 
+5. Caputi, L. and <a href="https://www.polito.it/en/staff?p=francesco.vaccarino"> Vaccarino, F.</a>, 
 <b>Diagrammatic Hochschild cohomology via cohomology of categories, and incidence algebras</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2512.15835">2512.15835 </a>.
 
-7. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
+6. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
 <a href="https://jasonpsmith.github.io/"> Smith, J. P.</a>, 
 <b>Multipath complexes of bidirectional polygonal digraphs</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2601.05670">2601.05670 </a>.
 
-8. Caputi, L., and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
+7. Caputi, L., and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
 <b> On the K-theory of matroids with Tutte coverings </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2603.18288">2603.18288 </a>.
 
-9. Caputi, L., and <a href="https://www.researchgate.net/scientific-contributions/Nicholas-J-Meadows-2079005012"> Meadows, N.</a>, <b>Financial Anomaly Detection for the Canadian Market</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2604.02549">2604.02549 </a>.
+8. Caputi, L., and <a href="https://www.researchgate.net/scientific-contributions/Nicholas-J-Meadows-2079005012"> Meadows, N.</a>, <b>Financial Anomaly Detection for the Canadian Market</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2604.02549">2604.02549 </a>.
 
-10. <a href="https://www.unibo.it/sitoweb/andrea.bianchi37/en"> Bianchi, A., <a href="https://www.unipi.it/en/about-us/organisation/people/filippo-gianluca-callegaro-96440-en/"> Callegaro, F., </a> Caputi, L., and Salvatore, P., 
+9. <a href="https://www.unibo.it/sitoweb/andrea.bianchi37/en"> Bianchi, A., <a href="https://www.unipi.it/en/about-us/organisation/people/filippo-gianluca-callegaro-96440-en/"> Callegaro, F., </a> Caputi, L., and Salvatore, P., 
 <b> Stable homology of complex braid groups </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2606.12206">2606.12206 </a>.
 
 

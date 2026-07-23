@@ -95,6 +95,8 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 9. <a href="https://www.unibo.it/sitoweb/andrea.bianchi37/en"> Bianchi, A., <a href="https://www.unipi.it/en/about-us/organisation/people/filippo-gianluca-callegaro-96440-en/"> Callegaro, F., </a> Caputi, L., and Salvatore, P., 
 <b> Stable homology of complex braid groups </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2606.12206">2606.12206 </a>.
 
+10. Caputi, L., and <a href="https://www.unibo.it/sitoweb/martino.lupini/en"> Lupini, M.</a>, <b>A general Universal Coefficient Theorem, and applications </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2009.10805">2009.10805 </a>.
+
 
 <p class=bold><h2>PhD Thesis:</h2></p>
 <b> Hochschild and cyclic homology for bornological coarse spaces,</b> PhD thesis, University of Regensburg, 2019. Available <a href="https://epub.uni-regensburg.de/40219/"> here</a>.

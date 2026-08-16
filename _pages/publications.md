@@ -11,7 +11,7 @@ Interests: algebraic and combinatorial topology, homologies of graphs, coarse ge
 cyclic homology theories, homological stability, representations of categories, K-theory, applications to TDA.
 
 <p class=bold><h2>Accepted papers and Publications:</h2></p>
-1. Caputi, L., <a  href='https://doi.org/10.1007/s40062-020-00263-3'> <b>Cyclic homology for bornological coarse spaces</b><a/>. <i>Journal of Homotopy and Related Structures</i> (15), 2020. 
+1. Caputi, L., <a  href='https://doi.org/10.1007/s40062-020-00263-3'> <b>Cyclic homology for bornological coarse spaces</b><a/>. <i>J. Homotopy Relat. Struct.</i> 15, No. 3-4, 463-493 (2020). 
 
 2. <a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Bunke, U.</a> and Caputi, L., 
 <a  href='https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/BunkeCaputi'><b>Controlled objects as a symmetric monoidal functor</b><a/>. <i>Higher Structures</i> 6(1): 182-211, 2022. 
@@ -19,7 +19,7 @@ cyclic homology theories, homological stability, representations of categories, 
 3. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
 <a  href='https://link.springer.com/article/10.1007/s10801-022-01180-9'><b>Combinatorial and Topological Aspects of Path Posets, and Multipath Cohomology</b><a/>. 
-<i>Journal of Algebraic Combinatorics</i> 57: 617–658, 2023. 
+<i>Journal of Algebraic Combinatorics</i> 57(2): 617–658, 2023. 
 
 4. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
 <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
@@ -29,27 +29,27 @@ cyclic homology theories, homological stability, representations of categories, 
 5. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a>, 
 <a href="https://link.springer.com/article/10.1007/s41468-023-00118-9"><b>Hochschild homology, and a persistent approach via connectivity digraphs</b></a>. <i>Journal of Applied and Computational Topology</i>, 8, 1121–1170, 2024. 
 
-6. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
-<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, <a href="https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/from-the-mayervietoris-spectral-sequence-to-uberhomology/6D67E50FEEACCDDA0DBEACC513167708"><b>From the Mayer-Vietoris spectral sequence to überhomology</b></a>. <i>Proceedings of the Royal Society of Edinburgh Section A: Mathematics</i>, 1-24, 2023. doi:10.1017/prm.2023.104 
-
-7. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
+6. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, and
 <a href="https://jasonpsmith.github.io/"> Smith, J. P.</a>, <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/mtk.12235"><b>On the Homotopy Type of Multipath Complexes</b></a>. <i>Mathematika</i>, 70 (1): e12235, 2024, https://doi.org/10.1112/mtk.12235. 
 
-8. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a>, 
+7. Caputi, L. and <a href="https://www.kth.se/profile/henrir?l=en"> Riihimäki, H.</a>, 
 <a href="http://www.tac.mta.ca/tac/volumes/41/12/41-12abs.html"><b> On reachability categories, persistence, and commuting algebras of quivers</b></a>. <i>Theory and Applications of Categories</i>, Vol. 41, 2024, No. 12, pp 426-448. 
 
-9. <a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Bunke, U.</a> and Caputi, L.,
+8. <a href="http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html"> Bunke, U.</a> and Caputi, L.,
  <a href="https://msp.org/akt/2024/9-1/p03.xhtml"><b>Localization for coarse homology theories</b></a>. <i>Annals of K-theory</i>, 
 Vol. 9, 2024, No. 1, 41–88. 
 <br>
 
-10. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, <a href="https://link.intlpress.com/JDetail/1844208490483666945"><b>Monotone cohomologies and oriented matchings</b></a>. <i>Homology, Homotopy and Applications</i>, Vol. 26 (2), 2024.
+9. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, <a href="https://link.intlpress.com/JDetail/1844208490483666945"><b>Monotone cohomologies and oriented matchings</b></a>. <i>Homology, Homotopy and Applications</i>, Vol. 26 (2), 2024.
 
-11. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
+10. Caputi, L., and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, 
 <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.13143"><b>On finite generation in magnitude (co)homology, and its torsion</b></a>. <i>Bulletin of the London Mathematical Society</i>, 2024. 
 
-12. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <a href="https://msp.org/agt/2024/24-8/p07.xhtml"><b>Multipath cohomology of directed graphs</b></a>. <i>Algebraic & Geometric Topology</i>, 24-8 (2024), 4373--4421. DOI 10.2140/agt.2024.24.4373. 
+11. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <a href="https://msp.org/agt/2024/24-8/p07.xhtml"><b>Multipath cohomology of directed graphs</b></a>. <i>Algebraic & Geometric Topology</i>, 24-8 (2024), 4373--4421. DOI 10.2140/agt.2024.24.4373. 
+
+12. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and 
+<a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, <a href="https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/from-the-mayervietoris-spectral-sequence-to-uberhomology/6D67E50FEEACCDDA0DBEACC513167708"><b>From the Mayer-Vietoris spectral sequence to überhomology</b></a>. <i>Proc. R. Soc. Edinb., Sect. A, Math.</i>, 155, No. 2, 540-563 (2025). DOI 10.1017/prm.2023.104 
 
 13. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0012365X26003444"><b>Multipath matroids, digraph colourings, and the Tutte polynomial</b></a>. <i>Discrete Mathematics</i>, 349 (12), 2026. 

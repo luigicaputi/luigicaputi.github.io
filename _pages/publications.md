@@ -67,6 +67,8 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 <a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, 
 <a  href='https://www.nature.com/articles/s41598-025-31700-z'><b>Integral Betti signatures of brain, climate and financial networks compared to hyperbolic, Euclidean and spherical models</b><a/>. <i>Scientific Reports</i> 2026, 16(1). 
 
+3. Caputi, L., and <a href="https://www.researchgate.net/scientific-contributions/Nicholas-J-Meadows-2079005012"> Meadows, N.</a>, <a  href='https://link.intlpress.com/JDetail/2092066316140724225'><b>Financial Anomaly Detection for the Canadian Market</b>. <i>Data Analytics and Topology</i> 2026, 2(1).
+
 <p class=naka><h2>Preprints:</h2></p>
 
 1. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a>, and <a href="https://ericgramos.github.io/"> Ramos, E.</a>
@@ -88,12 +90,10 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 6. Caputi, L., and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
 <b> On the K-theory of matroids with Tutte coverings </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2603.18288">2603.18288 </a>.
 
-7. Caputi, L., and <a href="https://www.researchgate.net/scientific-contributions/Nicholas-J-Meadows-2079005012"> Meadows, N.</a>, <b>Financial Anomaly Detection for the Canadian Market</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2604.02549">2604.02549 </a>.
-
-8. <a href="https://www.unibo.it/sitoweb/andrea.bianchi37/en"> Bianchi, A., <a href="https://www.unipi.it/en/about-us/organisation/people/filippo-gianluca-callegaro-96440-en/"> Callegaro, F., </a> Caputi, L., and Salvatore, P., 
+7. <a href="https://www.unibo.it/sitoweb/andrea.bianchi37/en"> Bianchi, A., <a href="https://www.unipi.it/en/about-us/organisation/people/filippo-gianluca-callegaro-96440-en/"> Callegaro, F., </a> Caputi, L., and Salvatore, P., 
 <b> Stable homology of complex braid groups </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2606.12206">2606.12206 </a>.
 
-9. Caputi, L., and <a href="https://www.unibo.it/sitoweb/martino.lupini/en"> Lupini, M.</a>, <b>A general Universal Coefficient Theorem, and applications </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2009.10805">2009.10805 </a>.
+8. Caputi, L., and <a href="https://www.unibo.it/sitoweb/martino.lupini/en"> Lupini, M.</a>, <b>A general Universal Coefficient Theorem, and applications </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2009.10805">2009.10805 </a>.
 
 
 <p class=bold><h2>PhD Thesis:</h2></p>

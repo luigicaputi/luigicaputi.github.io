@@ -6,15 +6,16 @@ description:
 nav: true
 ---
 
-<p class=bold><h2>Upcoming:</h2></p>
+
+
+
+<p class=bold><h2>PhD courses:</h2></p>
 
 January – March 2026: lecturer and course coordinator of the PhD course <a href="https://phd.unibo.it/matematica/en/teaching/a-y-2025-2026-courses"> Homological stability</a>, 16 hours, Area: MAT-02/MAT-03
 
 <b>Course description:</b>
 
 The course will introduce the students to the basic theory and results in homological stability stability. The course will also survey recent developments of the theory and current research directions in the field.
-
-<p class=bold><h2>PhD course:</h2></p>
 
 Winter sementer, 2024/2025: lecturer and course coordinator of the PhD course <a href="https://phd.unibo.it/matematica/en/teaching/2024-2025-courses"> Homological and representation stability</a>, 16 hours, Area: MAT-02/MAT-03
 

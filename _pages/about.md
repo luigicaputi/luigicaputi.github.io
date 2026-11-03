@@ -40,7 +40,7 @@ My research involves a mixture of homotopy
 theory, homological algebra, category theory, combinatorial and geometric topology.
 I am generally interested in homology and homotopy theories, coarse geometry, combinatorial topology, K-theory, and their applications.
 
-<p class=bold><h2>Recent and upcoming organized activities:</h2></p>
+<p class=bold><h2>Recent activities:</h2></p>
 
 <a href="https://indico.sns.it/event/143/"> 7th Italian-Japanese summer school in Mathematics </a>, Pisa, September 15 - September 25, 2026
 
@@ -93,29 +93,4 @@ Theory and Applications</a>, Palermo, July 25-26, 2024.
 
 <a href="https://sites.google.com/view/magnitude2023/home?authuser=0"> Magnitude 2023</a>, Osaka University,  December 4-8, 2023. 
 
-
-
-
-<!-- <p>  Here you can find my <a href="CV.pdf">CV</a>. 
-
-<p class=naka><b>Previously:</b></p>
-<b>January 2024 - now</b> PostDoc at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna.
-<br>
-<b>January 2023 - December 2023</b> PostDoc at the <a href="https://www.dipmatematica.unito.it/do/home.pl/Home"> Department of Mathematics </a> of the University of Torino.
-<br>
-<b>September 2022 - December 2022</b> PostDoc with the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague.
-<br>
-<b>November 2020 - August 2022</b> Research Fellow with the <a href="https://www.abdn.ac.uk/ncs/departments/mathematics/"> Department of Mathematics</a> of the University of Aberdeen.
-<br>
-<b>November 2019 - October 2020</b> PostDoc with the <a href="http://www.avcr.cz/cs/"> Czech Academy of Sciences</a> in Prague.
-<br>
-<b>June - September 2019</b>: Wiss. Mitarbeiter at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a> in the research group "Curvature, Cycles, and Cohomology".
-<br>
-<b>March 2016 - May 2019</b>: PhD student at the <a href="http://www.uni-regensburg.de/index.html.en"> University of Regensburg</a>.
-<!-- <br>
-<b>October 2015</b>: Master of Science in Mathematics at  University of Pisa.
-<br>
-<b>July 2012</b>: Bachelor of Science in Mathematics at University of Pisa. 
-<p>
- -->
 

@@ -6,9 +6,8 @@ description:
 nav: true
 ---
 
-<p class=bold><h2>Upcoming:</h2></p>
 
-<p class=bold><h2>Selected and upcoming conferences:</h2></p>
+<p class=bold><h2>Selected conferences:</h2></p>
 
 <a href="https://www.birs.ca/events/2026/5-day-workshops/26w5516"> Toric Topology and Polyhedral Products Collaborative Network</a>, Banff, July 26-31, 2026.
 

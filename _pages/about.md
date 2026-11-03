@@ -8,7 +8,7 @@ profile:
   align: right
   image: Image_Ober.jpg
   address: >
-    <p>Universit`a di Modena e Reggio Emilia</p>
+    <p>Università di Modena e Reggio Emilia</p>
     <p>Via Campi 213/A</p>
     <p>41125 Modena</p>
 

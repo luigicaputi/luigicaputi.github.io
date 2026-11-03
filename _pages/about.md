@@ -17,10 +17,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research fellow (assegnista di ricerca) at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna. Before that, I was  at the  <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics</a> of the University of Torino, a research fellow  at the
+I am a fixed-term tenure-track researcher (RTT, in the Italian system) at the University of Modena and Reggio Emilia. 
+
+From January 2024 to October 2026 I was a postdoc (assegnista di ricerca) at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna, and in 2023 I was a postdoc (assegnista di ricerca) at the  <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics</a> of the University of Torino.
+Before that, I was a research fellow  at the
  <a href="https://www.abdn.ac.uk/ncs/index.php"> School of Natural and Computing Sciences</a> 
 of the University of Aberdeen, and a Postdoctoral fellow with the
 <a href="http://www.avcr.cz/cs/"> ICS Czech Academy of Sciences</a> in Prague. 
+
 I completed my Ph.D. in Mathematics at the <a href="https://www.uni-regensburg.de/"> University of Regensburg</a>, 
 under the supervision of 
 <a href="https://bunke.app.uni-regensburg.de/"> Ulrich Bunke</a> and 

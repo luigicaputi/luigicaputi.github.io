@@ -9,6 +9,8 @@ nav: true
 
 <p class=bold><h2>Selected conferences:</h2></p>
 
+<a href="https://www.sams.ac.za/2026/07/17/south-african-japanese-discrete-homotopy-meeting-2026/"> SAJDHM2026</a>: South African-Japanese Discrete Homotopy Meeting 2025, Fukuoka, October 7-8, 2026.
+
 <a href="https://www.birs.ca/events/2026/5-day-workshops/26w5516"> Toric Topology and Polyhedral Products Collaborative Network</a>, Banff, July 26-31, 2026.
 
 <a href="https://sites.google.com/view/multiple-perspectives-on-hh"> Multiple perspectives on Hochschild cohomology</a>, Padova, May 28-29 2026.

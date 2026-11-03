@@ -7,7 +7,7 @@ nav: true
 ---
 
 
-<p class=bold><h2>Selected conferences:</h2></p>
+<p class=bold><h2>Some recent selected conferences:</h2></p>
 
 <a href="https://www.sams.ac.za/2026/07/17/south-african-japanese-discrete-homotopy-meeting-2026/"> SAJDHM2026</a>: South African-Japanese Discrete Homotopy Meeting 2025, Fukuoka, October 7-8, 2026.
 

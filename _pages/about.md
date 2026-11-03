@@ -40,7 +40,7 @@ My research involves a mixture of homotopy
 theory, homological algebra, category theory, combinatorial and geometric topology.
 I am generally interested in homology and homotopy theories, coarse geometry, combinatorial topology, K-theory, and their applications.
 
-<p class=bold><h2>Recent activities:</h2></p>
+<p class=bold><h2>Recent organised activities:</h2></p>
 
 <a href="https://indico.sns.it/event/143/"> 7th Italian-Japanese summer school in Mathematics </a>, Pisa, September 15 - September 25, 2026
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /organising/
-title: Organising
+permalink: /conferences/
+title: Conferences
 description: 
 nav: true
 ---

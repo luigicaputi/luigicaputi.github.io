@@ -8,16 +8,16 @@ profile:
   align: right
   image: Image_Ober.jpg
   address: >
-    <p>University of Bologna</p>
-    <p>Via Zamboni, 33</p>
-    <p>40126 Bologna</p>
+    <p>Universit`a di Modena e Reggio Emilia</p>
+    <p>Via Campi 213/A</p>
+    <p>41125 Modena</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fixed-term tenure-track researcher (RTT, in the Italian system) at the University of Modena and Reggio Emilia. 
+I am a fixed-term tenure-track researcher (RTT, in the Italian system) at the <a href="https://www.fim.unimore.it/en"> Department of Physics, Informatics and Mathematics Sciences </a> of the University of Modena and Reggio Emilia. 
 
 From January 2024 to October 2026 I was a postdoc (assegnista di ricerca) at the <a href="https://matematica.unibo.it/it/dipartimento"> Department of Mathematics </a> of the University of Bologna, and in 2023 I was a postdoc (assegnista di ricerca) at the  <a href="https://www.dipmatematica.unito.it/do/home.pl"> Department of Mathematics</a> of the University of Torino.
 Before that, I was a research fellow  at the
@@ -25,7 +25,7 @@ Before that, I was a research fellow  at the
 of the University of Aberdeen, and a Postdoctoral fellow with the
 <a href="http://www.avcr.cz/cs/"> ICS Czech Academy of Sciences</a> in Prague. 
 
-I completed my Ph.D. in Mathematics at the <a href="https://www.uni-regensburg.de/"> University of Regensburg</a>, 
+I completed my Ph.D. in Mathematics in 2019 with the <a href="https://www.uni-regensburg.de/"> University of Regensburg</a>, 
 under the supervision of 
 <a href="https://bunke.app.uni-regensburg.de/"> Ulrich Bunke</a> and 
 <a href="https://loeh.app.uni-regensburg.de/index.html"> Clara L&ouml;h</a>. 

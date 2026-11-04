@@ -110,3 +110,7 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 
 10/07/2025, <b>Bridging between überhomology and double homology</b> available on <a href="https://www.youtube.com/watch?v=ubDGJFi_weY"> Youtube</a>, and <a href="http://www.fields.utoronto.ca/talks/Bridging-between-%C3%BCberhomology-and-double-homology"> here</a>, Focus Program on Algebraic Topology In memory of Fred Cohen - Workshop on Homotopy Theory, The Fields Institute for
 Research in Mathematical Sciences, Toronto
+
+11/09/2025, <b>Eulerian magnitude homology: diagonality, injective words, and regular path homology</b> available  <a href="https://drive.google.com/file/d/1Lv8gadXgcg7vNN2_9gfg2Lj3IMLsOpJQ/view?usp=drive_link"> here</a>, South African-Japanese Discrete Homotopy Meeting 2025, University of Cape Town (Cape Town, South Africa) 
+
+09/12/2025, <b>Eulerian magnitude homology: diagonality, injective words, and regular path homology</b> available   <a href="https://youtu.be/OZ0gT-qqclQ?si=Y2UnwpPmt0IJ1pMY"> here</a>, Applied Algebraic Topology Network 

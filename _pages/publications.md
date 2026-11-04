@@ -54,7 +54,11 @@ Vol. 9, 2024, No. 1, 41–88.
 13. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0012365X26003444"><b>Multipath matroids, digraph colourings, and the Tutte polynomial</b></a>. <i>Discrete Mathematics</i>, 349 (12), 2026. 
 
-14. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Bridging between überhomology and double homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2406.18778">2406.18778 </a>. To appear on <i>Math. Proc. of the Cambridge Ph. Soc./<i>.
+14. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Bridging between überhomology and double homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2406.18778">2406.18778 </a>. To appear on <i>Math. Proc. of the Cambridge Ph. Soc.</i>.
+
+15. Caputi, L., and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
+<b> On the K-theory of matroids with Tutte coverings </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2603.18288">2603.18288 </a>. To appear on <i>Can. Math. Bullet. </i>.
+
 
 <p class=bold><h2>Publications in applied mathematics:</h2></p>
 
@@ -87,13 +91,12 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 <a href="https://jasonpsmith.github.io/"> Smith, J. P.</a>, 
 <b>Multipath complexes of bidirectional polygonal digraphs</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2601.05670">2601.05670 </a>.
 
-6. Caputi, L., and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
-<b> On the K-theory of matroids with Tutte coverings </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2603.18288">2603.18288 </a>.
-
-7. <a href="https://www.unibo.it/sitoweb/andrea.bianchi37/en"> Bianchi, A., <a href="https://www.unipi.it/en/about-us/organisation/people/filippo-gianluca-callegaro-96440-en/"> Callegaro, F., </a> Caputi, L., and Salvatore, P., 
+6. <a href="https://www.unibo.it/sitoweb/andrea.bianchi37/en"> Bianchi, A., <a href="https://www.unipi.it/en/about-us/organisation/people/filippo-gianluca-callegaro-96440-en/"> Callegaro, F., </a> Caputi, L., and Salvatore, P., 
 <b> Stable homology of complex braid groups </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2606.12206">2606.12206 </a>.
 
-8. Caputi, L., and <a href="https://www.unibo.it/sitoweb/martino.lupini/en"> Lupini, M.</a>, <b>A general Universal Coefficient Theorem, and applications </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2009.10805">2009.10805 </a>.
+7. Caputi, L., and <a href="https://www.unibo.it/sitoweb/martino.lupini/en"> Lupini, M.</a>, <b>A general Universal Coefficient Theorem, and applications </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2009.10805">2009.10805 </a>.
+
+8. Caputi, L., and <a href="https://mat.unicam.it/it/content/francesco-russo"> Russo, F.</a>, <b> A characterization of finite modular 2-groups via magnitude homology  </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2610.25030">2610.25030 </a>.
 
 
 <p class=bold><h2>PhD Thesis:</h2></p>

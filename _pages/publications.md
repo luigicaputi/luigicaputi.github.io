@@ -108,7 +108,7 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 
 10/04/2024, <b>The weak categorical quiver minor theorem and its applications</b> available <a href="https://bimsa.net:10000/talk.html?id=29124"> here</a>, BIMSA Topology Seminar, online
 
-02/06/2024, <b>Reachability categories and commuting algebras of quivers</b> available <a href="https://youtu.be/erZujoHxG6g?si=R94e8voXEIpJGnmP"> here</a>, Transactions in Category Theory 2025, Glasgow
+02/06/2024, <b>Reachability categories and commuting algebras of quivers</b> available <a href="https://youtu.be/erZujoHxG6g?si=R94e8voXEIpJGnmP"> here</a>, Transactions in Category Theory 2025, University of Strathclyde, Glasgow
 
 10/07/2025, <b>Bridging between überhomology and double homology</b> available on <a href="https://www.youtube.com/watch?v=ubDGJFi_weY"> Youtube</a>, and <a href="http://www.fields.utoronto.ca/talks/Bridging-between-%C3%BCberhomology-and-double-homology"> here</a>, Focus Program on Algebraic Topology In memory of Fred Cohen - Workshop on Homotopy Theory, The Fields Institute for
 Research in Mathematical Sciences, Toronto

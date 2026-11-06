@@ -54,10 +54,11 @@ Vol. 9, 2024, No. 1, 41–88.
 13. Caputi, L., <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> and 
 <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0012365X26003444"><b>Multipath matroids, digraph colourings, and the Tutte polynomial</b></a>. <i>Discrete Mathematics</i>, 349 (12), 2026. 
 
-14. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Bridging between überhomology and double homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2406.18778">2406.18778 </a>. To appear on <i>Math. Proc. of the Cambridge Ph. Soc.</i>.
+14. Caputi, L., and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>,, <a href="https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/on-the-ktheory-of-matroids-with-tutte-coverings/2E4A5F1EB39D7A9FA9F8746D005D2260"><b>On the K-theory of matroids with Tutte coverings</b></a>. <i>Can. Math. Bullet.</i>, 2026.
 
-15. Caputi, L., and <a href="https://sites.google.com/view/sabino-di-trani-web-page/home-page"> Di Trani, S.</a>, 
-<b> On the K-theory of matroids with Tutte coverings </b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2603.18288">2603.18288 </a>. To appear on <i>Can. Math. Bullet. </i>.
+15. Caputi, L., <a href="https://sites.google.com/view/danieleceloria/"> Celoria, D.</a> and <a href="https://sites.google.com/view/carlocollari/home"> Collari, C.</a> <b>Bridging between überhomology and double homology</b>. Available online at the arXiv:<a href="https://arxiv.org/abs/2406.18778">2406.18778 </a>. To appear on <i>Math. Proc. of the Cambridge Ph. Soc.</i>.
+
+
 
 
 <p class=bold><h2>Publications in applied mathematics:</h2></p>

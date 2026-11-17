@@ -72,7 +72,7 @@ Companion software available  <a  href='https://github.com/cobragroup/TDA_brain_
 <a href="https://uivty.cs.cas.cz/~hlinka/"> Hlinka, J.</a>, 
 <a  href='https://www.nature.com/articles/s41598-025-31700-z'><b>Integral Betti signatures of brain, climate and financial networks compared to hyperbolic, Euclidean and spherical models</b><a/>. <i>Scientific Reports</i> 2026, 16(1). 
 
-3. Caputi, L., and <a href="https://www.researchgate.net/scientific-contributions/Nicholas-J-Meadows-2079005012"> Meadows, N.</a>, <a  href='https://link.intlpress.com/JDetail/2092066316140724225'><b>Financial Anomaly Detection for the Canadian Market</b>. <i>Data Analytics and Topology</i> 2026, 2(1).
+3. Caputi, L., and <a href="https://www.researchgate.net/scientific-contributions/Nicholas-J-Meadows-2079005012"> Meadows, N.</a>, <a  href='https://link.intlpress.com/JDetail/2092066316140724225'><b>Financial Anomaly Detection for the Canadian Market</b><a/>. <i>Data Analytics and Topology</i> 2026, 2(1).
 
 <p class=naka><h2>Preprints:</h2></p>
 
